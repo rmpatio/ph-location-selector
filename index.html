@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+<head><meta charset="utf-8"><title>Philippines Location Selector</title></head>
+<body>
+  <h2>Select Your Location</h2>
+  <select id="region"><option>--Region--</option></select>
+  <select id="province"><option>--Province--</option></select>
+  <select id="municipality"><option>--Municipality--</option></select>
+  <select id="barangay"><option>--Barangay--</option></select>
+  <script
+  src="https://drive.google.com/uc?export=download&id=1UHnhELZfcVPRtTznRcESOprMPHwiKAtM"
+  defer
+></script>
+  <script>
+
+    const jsonUrl = 'https://drive.google.com/uc?export=download&id=1mZWOf6DQGgIuInihnSn-5tSXRGo6Hg4r';
+    const $ = id => document.getElementById(id);
+
+    // Populate regions
+    Object.values(data)
+      .sort((a,b)=>a.name.localeCompare(b.name))
+      .forEach(r => {
+        const opt = new Option(r.name, r.name);
+        $('region').add(opt);
+      });
+
+    function reset(sel) { sel.length = 1; }
+
+    $('region').onchange = () => {
+      reset($('province'), $('municipality'), $('barangay'));
+      const region = Object.values(data).find(r => r.name === $('region').value);
+      Object.values(region.provinces)
+        .sort((a,b)=>a.name.localeCompare(b.name))
+        .forEach(p => $('province').add(new Option(p.name, p.name)));
+    };
+
+    $('province').onchange = () => {
+      reset($('municipality'), $('barangay'));
+      const region = Object.values(data).find(r => r.name === $('region').value);
+      const prov   = Object.values(region.provinces).find(p => p.name === $('province').value);
+      Object.values(prov.municipalities)
+        .sort((a,b)=>a.name.localeCompare(b.name))
+        .forEach(m => $('municipality').add(new Option(m.name, m.name)));
+    };
+
+    $('municipality').onchange = () => {
+      reset($('barangay'));
+      const region = Object.values(data).find(r => r.name === $('region').value);
+      const prov   = Object.values(region.provinces).find(p => p.name === $('province').value);
+      const muni   = Object.values(prov.municipalities).find(m => m.name === $('municipality').value);
+      muni.barangays.sort().forEach(b => $('barangay').add(new Option(b, b)));
+    };
+  </script>
+</body>
+</html>
