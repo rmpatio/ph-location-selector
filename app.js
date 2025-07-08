@@ -5,64 +5,78 @@ async function loadLocations() {
   try {
     const res = await fetch(jsonUrl);
     if (!res.ok) throw new Error(`HTTP ${res.status}`);
-    const data = await res.json();
+    const data = await res.json();  // data is an object whose keys are region codes and values have .name & .provinces :contentReference[oaicite:0]{index=0}
     console.log('Loaded data:', data);
 
-    // Populate the <select> elements
-    const regionSelect      = document.getElementById('region');
-    const provinceSelect    = document.getElementById('province');
-    const municipalitySelect= document.getElementById('municipality');
-    const barangaySelect    = document.getElementById('barangay');
+    // Grab your <select>s
+    const regionSelect       = document.getElementById('region');
+    const provinceSelect     = document.getElementById('province');
+    const municipalitySelect = document.getElementById('municipality');
+    const barangaySelect     = document.getElementById('barangay');
 
-    // 1) Regions
-    Object.keys(data).forEach(region => {
-      const opt = document.createElement('option');
-      opt.value   = region;
-      opt.textContent = region;
-      regionSelect.append(opt);
-    });
+    // Helper to reset downstream dropdowns
+    function reset(...sels) {
+      sels.forEach(sel => sel.innerHTML = `<option>--${sel.id.charAt(0).toUpperCase() + sel.id.slice(1)}--</option>`);
+      sels.forEach(sel => sel.disabled = true);
+    }
+    // Initially disable all but region
+    reset(provinceSelect, municipalitySelect, barangaySelect);
 
-    // 2) When a region is picked, populate provinces...
-    regionSelect.addEventListener('change', () => {
-      // clear downstream selects
-      provinceSelect.innerHTML     = '<option>--Province--</option>';
-      municipalitySelect.innerHTML = '<option>--Municipality--</option>';
-      barangaySelect.innerHTML     = '<option>--Barangay--</option>';
-
-      const provinces = data[regionSelect.value] || {};
-      Object.keys(provinces).forEach(prov => {
+    // 1) Populate Regions by name, but keep 'code' as the value
+    Object.entries(data)
+      .sort(([,a],[,b]) => a.name.localeCompare(b.name))
+      .forEach(([code, region]) => {
         const opt = document.createElement('option');
-        opt.value   = prov;
-        opt.textContent = prov;
-        provinceSelect.append(opt);
+        opt.value       = code;
+        opt.textContent = region.name;
+        regionSelect.append(opt);
       });
+
+    // 2) When Region changes, load its Provinces
+    regionSelect.addEventListener('change', () => {
+      reset(provinceSelect, municipalitySelect, barangaySelect);
+      const regionCode = regionSelect.value;
+      if (!regionCode) return; 
+      const provinces = data[regionCode].provinces || {};
+      Object.entries(provinces)
+        .sort(([,a],[,b]) => a.name.localeCompare(b.name))
+        .forEach(([pcode, prov]) => {
+          const opt = new Option(prov.name, pcode);
+          provinceSelect.append(opt);
+        });
+      provinceSelect.disabled = false;
     });
 
     // 3) Province → Municipality
     provinceSelect.addEventListener('change', () => {
-      municipalitySelect.innerHTML = '<option>--Municipality--</option>';
-      barangaySelect.innerHTML     = '<option>--Barangay--</option>';
-
-      const munis = (data[regionSelect.value] || {})[provinceSelect.value] || {};
-      Object.keys(munis).forEach(mun => {
-        const opt = document.createElement('option');
-        opt.value   = mun;
-        opt.textContent = mun;
-        municipalitySelect.append(opt);
-      });
+      reset(municipalitySelect, barangaySelect);
+      const regionCode = regionSelect.value;
+      const provCode   = provinceSelect.value;
+      if (!provCode) return;
+      const munis = (data[regionCode].provinces[provCode].municipalities) || {};
+      Object.entries(munis)
+        .sort(([,a],[,b]) => a.name.localeCompare(b.name))
+        .forEach(([mcode, muni]) => {
+          municipalitySelect.append(new Option(muni.name, mcode));
+        });
+      municipalitySelect.disabled = false;
     });
 
     // 4) Municipality → Barangay
     municipalitySelect.addEventListener('change', () => {
-      barangaySelect.innerHTML = '<option>--Barangay--</option>';
-
-      const brgys = ((data[regionSelect.value] || {})[provinceSelect.value] || {})[municipalitySelect.value] || [];
-      brgys.forEach(brgy => {
-        const opt = document.createElement('option');
-        opt.value   = brgy;
-        opt.textContent = brgy;
-        barangaySelect.append(opt);
+      reset(barangaySelect);
+      const regionCode = regionSelect.value;
+      const provCode   = provinceSelect.value;
+      const muniCode   = municipalitySelect.value;
+      if (!muniCode) return;
+      const barangays = data[regionCode]
+                          .provinces[provCode]
+                          .municipalities[muniCode]
+                          .barangays || [];
+      barangays.sort().forEach(b => {
+        barangaySelect.append(new Option(b, b));
       });
+      barangaySelect.disabled = false;
     });
 
   } catch (err) {
