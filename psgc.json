@@ -61,7 +61,7 @@
               "Miaray",
               "Migcuya",
               "New Visayas",
-              "Osme�a",
+              "Osme\u00f1a",
               "Poblacion",
               "Sagbayan",
               "San Vicente"
@@ -173,7 +173,7 @@
               "Labuagon",
               "Magsaysay",
               "Marapangi",
-              "Mascari�as",
+              "Mascari\u00f1as",
               "Natulongan",
               "New Kidapawan",
               "Old Kibawe",
@@ -308,7 +308,7 @@
               "Saint Peter",
               "San Jose",
               "San Martin",
-              "Santo Ni�o",
+              "Santo Ni\u00f1o",
               "Silae",
               "Simaya",
               "Sinanglanan",
@@ -356,7 +356,7 @@
               "San Miguel",
               "Sankanan",
               "Santiago",
-              "Santo Ni�o",
+              "Santo Ni\u00f1o",
               "Ticala"
             ]
           },
@@ -506,7 +506,7 @@
               "Liguron",
               "Lingi-on",
               "Lirongan",
-              "Santo Ni�o",
+              "Santo Ni\u00f1o",
               "Miarayon",
               "Barangay 1 (Pob.)",
               "Barangay 2 (Pob.)",
@@ -599,7 +599,7 @@
               "Manduao",
               "Panghiawan",
               "Poblacion",
-              "Santo Ni�o",
+              "Santo Ni\u00f1o",
               "Tangaro"
             ]
           },
@@ -630,7 +630,7 @@
               "San Miguel",
               "San Roque",
               "Tubod",
-              "Tupsan Peque�o"
+              "Tupsan Peque\u00f1o"
             ]
           },
           "101804000": {
@@ -917,7 +917,7 @@
               "Rebucon",
               "Riverside",
               "San Roque",
-              "Santo Ni�o",
+              "Santo Ni\u00f1o",
               "Simbuco",
               "Small Banisilan",
               "Sucodan",
@@ -1260,7 +1260,7 @@
               "Poblacion",
               "Pualas",
               "San Antonio",
-              "Santo Ni�o",
+              "Santo Ni\u00f1o",
               "Taden",
               "Tangueguiron",
               "Taguranao",
@@ -1642,7 +1642,7 @@
               "Tinago",
               "Trigos",
               "50th District (Pob.)",
-              "Do�a Consuelo"
+              "Do\u00f1a Consuelo"
             ]
           },
           "104211000": {
@@ -1753,7 +1753,7 @@
               "San Isidro Alto",
               "San Isidro Bajo",
               "San Vicente",
-              "Se�or",
+              "Se\u00f1or",
               "Sinonoc",
               "San Lorenzo Ruiz",
               "Tipan"
@@ -1802,7 +1802,7 @@
               "San Apolinario",
               "San Vicente",
               "Santa Cruz",
-              "Santo Ni�o",
+              "Santo Ni\u00f1o",
               "Silangit",
               "Simasay",
               "Sumirap",
@@ -2296,7 +2296,7 @@
               "Lubluban",
               "Poblacion",
               "Retablo",
-              "Santo Ni�o",
+              "Santo Ni\u00f1o",
               "Tangcub",
               "Taytayan"
             ]
@@ -2533,7 +2533,7 @@
               "Camoning",
               "Canatan",
               "Concepcion",
-              "Do�a Andrea",
+              "Do\u00f1a Andrea",
               "Magatos",
               "Napungas",
               "New Bantayan",
@@ -2564,7 +2564,7 @@
               "Minda",
               "New Camiling",
               "San Isidro",
-              "Santo Ni�o",
+              "Santo Ni\u00f1o",
               "Tibulao",
               "Tubod",
               "Tuganay",
@@ -2611,7 +2611,7 @@
               "San Roque",
               "Santa Cruz",
               "Santa Fe",
-              "Santo Ni�o",
+              "Santo Ni\u00f1o",
               "Suawon",
               "San Jose"
             ]
@@ -2651,7 +2651,7 @@
               "San Roque",
               "San Vicente",
               "Santa Cruz",
-              "Santo Ni�o (Pob.)",
+              "Santo Ni\u00f1o (Pob.)",
               "Sindaton",
               "Southern Davao",
               "Tagpore",
@@ -2691,7 +2691,7 @@
               "Miranda (Pob.)",
               "Moncado (Pob.)",
               "Pangubatan",
-              "Pe�aplata (Pob.)",
+              "Pe\u00f1aplata (Pob.)",
               "Poblacion",
               "San Agustin",
               "San Antonio",
@@ -2701,7 +2701,7 @@
               "San Miguel",
               "San Remigio",
               "Santa Cruz",
-              "Santo Ni�o",
+              "Santo Ni\u00f1o",
               "Sion",
               "Tagbaobo",
               "Tagbay",
@@ -2769,7 +2769,7 @@
             "barangays": [
               "Dagohoy",
               "Palma Gil",
-              "Santo Ni�o"
+              "Santo Ni\u00f1o"
             ]
           },
           "112323000": {
@@ -2796,7 +2796,7 @@
               "Pinamuno",
               "Sabangan",
               "San Miguel",
-              "Santo Ni�o",
+              "Santo Ni\u00f1o",
               "Sawata"
             ]
           }
@@ -2827,7 +2827,7 @@
               "New Clarin",
               "Poblacion",
               "Rizal",
-              "Santo Ni�o",
+              "Santo Ni\u00f1o",
               "Sibayan",
               "Tinongtongan",
               "Tubod",
@@ -2865,7 +2865,7 @@
               "Camansi",
               "Carmen",
               "Catalunan Grande",
-              "Catalunan Peque�o",
+              "Catalunan Peque\u00f1o",
               "Catigan",
               "Cawayan",
               "Colosas",
@@ -3014,7 +3014,7 @@
               "Rafael Castillo",
               "Saloy",
               "San Antonio",
-              "Santo Ni�o",
+              "Santo Ni\u00f1o",
               "Ubalde",
               "Waan",
               "Wilfredo Aquino",
@@ -3107,7 +3107,7 @@
               "San Isidro",
               "San Jose",
               "San Pedro",
-              "Santo Ni�o",
+              "Santo Ni\u00f1o",
               "Tacub",
               "Tacul",
               "Waterfall",
@@ -3203,7 +3203,7 @@
             "name": "Padada",
             "barangays": [
               "Almendras (Pob.)",
-              "Don Sergio Osme�a, Sr.",
+              "Don Sergio Osme\u00f1a, Sr.",
               "Harada Butai",
               "Lower Katipunan",
               "Lower Limonzo",
@@ -3261,7 +3261,7 @@
               "Luparan",
               "Mckinley",
               "New Cebu",
-              "Osme�a",
+              "Osme\u00f1a",
               "Palili",
               "Parame",
               "Poblacion",
@@ -3391,7 +3391,7 @@
               "Oregon",
               "Poblacion",
               "Pundaguitan",
-              "Sergio Osme�a",
+              "Sergio Osme\u00f1a",
               "Surop",
               "Tagabebe",
               "Tamban",
@@ -3533,7 +3533,7 @@
               "Maparat",
               "New Alegria",
               "Ngan",
-              "Osme�a",
+              "Osme\u00f1a",
               "Panansalan",
               "Poblacion",
               "San Jose",
@@ -3571,7 +3571,7 @@
               "Concepcion",
               "Datu Ampunan",
               "Datu Davao",
-              "Do�a Josefa",
+              "Do\u00f1a Josefa",
               "El Katipunan",
               "Imelda",
               "Inacayan",
@@ -3584,7 +3584,7 @@
               "Panamoren",
               "Sabud",
               "Santa Emilia",
-              "Santo Ni�o",
+              "Santo Ni\u00f1o",
               "Sisimon"
             ]
           },
@@ -3768,7 +3768,7 @@
               "San Roque",
               "San Vicente",
               "Santa Maria",
-              "Santo Ni�o",
+              "Santo Ni\u00f1o",
               "Sasa",
               "Tagnocon",
               "Bayabas",
@@ -3925,7 +3925,7 @@
               "San Pedro",
               "San Roque",
               "Tanglad",
-              "Santo Ni�o",
+              "Santo Ni\u00f1o",
               "Santo Rosario",
               "Datu Daligasao",
               "Datu Intan",
@@ -4079,7 +4079,7 @@
               "Poblacion",
               "San Isidro",
               "San Roque",
-              "Santo Ni�o",
+              "Santo Ni\u00f1o",
               "Sibawan",
               "Sikitan",
               "Singao",
@@ -4186,7 +4186,7 @@
               "Saguing",
               "San Vicente",
               "Santa Felomina",
-              "Santo Ni�o",
+              "Santo Ni\u00f1o",
               "Sinkatulan",
               "Taluntalunan",
               "Villaflores",
@@ -4587,7 +4587,7 @@
               "Napalico",
               "Salasang",
               "San Miguel",
-              "Santo Ni�o",
+              "Santo Ni\u00f1o",
               "Sumalili",
               "Tumanding"
             ]
@@ -4659,7 +4659,7 @@
             "name": "City of Koronadal (Capital)",
             "barangays": [
               "Assumption",
-              "Avance�a",
+              "Avance\u00f1a",
               "Cacub",
               "Caloocan",
               "Carpenter Hill",
@@ -4682,7 +4682,7 @@
               "San Jose",
               "San Roque",
               "Santa Cruz",
-              "Santo Ni�o",
+              "Santo Ni\u00f1o",
               "Sarabia",
               "Zulueta"
             ]
@@ -4844,7 +4844,7 @@
             ]
           },
           "126318000": {
-            "name": "Santo Ni�o",
+            "name": "Santo Ni\u00f1o",
             "barangays": [
               "Ambalgan",
               "Guinsang-an",
@@ -4905,7 +4905,7 @@
               "Kabulanan",
               "Kanulay",
               "Monteverde",
-              "Santo Ni�o",
+              "Santo Ni\u00f1o",
               "Sumilil",
               "Titulok",
               "Sison"
@@ -5154,7 +5154,7 @@
               "Calean",
               "Carmen",
               "D'Ledesma",
-              "Virginia Gri�o",
+              "Virginia Gri\u00f1o",
               "Kalandagan",
               "Enrique J.C. Montilla",
               "New Isabela",
@@ -5432,7 +5432,7 @@
     "name": "National Capital Region (NCR)",
     "provinces": {
       "133900000": {
-        "name": null,
+        "name": "Metro Manila",
         "municipalities": {
           "133900000": {
             "name": "City of Manila",
@@ -6404,12 +6404,7 @@
               "Barangay 808",
               "Barangay 818-A"
             ]
-          }
-        }
-      },
-      "137400000": {
-        "name": null,
-        "municipalities": {
+          },
           "137401000": {
             "name": "City of Mandaluyong",
             "barangays": [
@@ -6431,8 +6426,8 @@
               "Malamig",
               "Mauway",
               "Namayan",
-              "New Za�iga",
-              "Old Za�iga",
+              "New Za\u00f1iga",
+              "Old Za\u00f1iga",
               "Pag-asa",
               "Plainview",
               "Pleasant Hills",
@@ -6448,14 +6443,14 @@
               "Barangka",
               "Calumpang",
               "Concepcion Uno",
-              "Jesus De La Pe�a",
+              "Jesus De La Pe\u00f1a",
               "Malanday",
               "Nangka",
               "Parang",
               "San Roque",
               "Santa Elena (Pob.)",
-              "Santo Ni�o",
-              "Ta�ong",
+              "Santo Ni\u00f1o",
+              "Ta\u00f1ong",
               "Concepcion Dos",
               "Marikina Heights",
               "Industrial Valley",
@@ -6531,8 +6526,8 @@
               "Damayang Lagi",
               "Del Monte",
               "Dioquino Zobel",
-              "Do�a Imelda",
-              "Do�a Josefa",
+              "Do\u00f1a Imelda",
+              "Do\u00f1a Josefa",
               "Don Manuel",
               "Duyan-duyan",
               "E. Rodriguez",
@@ -6609,7 +6604,7 @@
               "Santa Monica",
               "Santa Teresita",
               "Santo Cristo",
-              "Santo Ni�o",
+              "Santo Ni\u00f1o",
               "Santol",
               "Sauyo",
               "Sienna",
@@ -6652,14 +6647,14 @@
               "Balong-Bato",
               "Batis",
               "Corazon De Jesus",
-              "Ermita�o",
+              "Ermita\u00f1o",
               "Halo-halo",
               "Isabelita",
               "Kabayanan",
               "Little Baguio",
               "Maytunas",
               "Onse",
-              "Pasade�a",
+              "Pasade\u00f1a",
               "Pedro Cruz",
               "Progreso",
               "Rivera",
@@ -6670,12 +6665,7 @@
               "West Crame",
               "Greenhills"
             ]
-          }
-        }
-      },
-      "137500000": {
-        "name": null,
-        "municipalities": {
+          },
           "137501000": {
             "name": "City of Caloocan",
             "barangays": [
@@ -6889,7 +6879,7 @@
               "Potrero",
               "San Agustin",
               "Santolan",
-              "Ta�ong (Pob.)",
+              "Ta\u00f1ong (Pob.)",
               "Tinajeros",
               "Tonsuya",
               "Tugatog"
@@ -6955,14 +6945,9 @@
               "Wawang Pulo",
               "Canumay East"
             ]
-          }
-        }
-      },
-      "137600000": {
-        "name": null,
-        "municipalities": {
+          },
           "137601000": {
-            "name": "City of Las Pi�as",
+            "name": "City of Las Pi\u00f1as",
             "barangays": [
               "Almanza Uno",
               "Daniel Fajardo",
@@ -6994,7 +6979,7 @@
               "Cembo",
               "Comembo",
               "Carmona",
-              "Dasmari�as",
+              "Dasmari\u00f1as",
               "East Rembo",
               "Forbes Park",
               "Guadalupe Nuevo",
@@ -7039,13 +7024,13 @@
             ]
           },
           "137604000": {
-            "name": "City of Para�aque",
+            "name": "City of Para\u00f1aque",
             "barangays": [
               "Baclaran",
               "Don Galo",
               "La Huerta",
               "San Dionisio",
-              "Santo Ni�o",
+              "Santo Ni\u00f1o",
               "Tambo",
               "B. F. Homes",
               "Don Bosco",
@@ -7328,7 +7313,7 @@
             "barangays": [
               "Agtangao",
               "Angad",
-              "Ba�acao",
+              "Ba\u00f1acao",
               "Bangbangar",
               "Cabuloan",
               "Calaba",
@@ -7582,7 +7567,7 @@
             ]
           },
           "140117000": {
-            "name": "Pe�arrubia",
+            "name": "Pe\u00f1arrubia",
             "barangays": [
               "Dumayco",
               "Lusuac",
@@ -8883,7 +8868,7 @@
               "Upper Maton",
               "Amado",
               "Aurora",
-              "Do�a Loreta",
+              "Do\u00f1a Loreta",
               "Emilia",
               "Imelda",
               "Lt. Balag",
@@ -8986,8 +8971,8 @@
               "Bagbagon",
               "Bulan-bulan",
               "Suba-an",
-              "Lower Ba�as",
-              "Upper Ba�as",
+              "Lower Ba\u00f1as",
+              "Upper Ba\u00f1as",
               "Calugusan",
               "Canibungan",
               "Landugan",
@@ -12065,7 +12050,7 @@
             "name": "City of Butuan (Capital)",
             "barangays": [
               "Agao Pob.",
-              "Agusan Peque�o",
+              "Agusan Peque\u00f1o",
               "Ambago",
               "Amparo",
               "Ampayon",
@@ -12146,7 +12131,7 @@
               "Pagatpatan",
               "Pangabugan",
               "Salvacion",
-              "Santo Ni�o",
+              "Santo Ni\u00f1o",
               "Sumile",
               "Don Francisco",
               "Pigdaulan"
@@ -12218,7 +12203,7 @@
               "San Jose",
               "San Pablo",
               "San Vicente",
-              "Santo Ni�o"
+              "Santo Ni\u00f1o"
             ]
           },
           "160206000": {
@@ -12271,7 +12256,7 @@
               "Poblacion",
               "Taod-oy",
               "Marcos",
-              "Santo Ni�o",
+              "Santo Ni\u00f1o",
               "Santo Rosario"
             ]
           },
@@ -12318,7 +12303,7 @@
             "barangays": [
               "Binuangan",
               "Cabayawa",
-              "Do�a Rosario",
+              "Do\u00f1a Rosario",
               "La Fraternidad",
               "Lawigan",
               "Poblacion 1",
@@ -12328,7 +12313,7 @@
               "Tagpangahoy",
               "Tinigbasan",
               "Victory",
-              "Do�a Telesfora"
+              "Do\u00f1a Telesfora"
             ]
           },
           "160212000": {
@@ -12361,7 +12346,7 @@
               "Marcelina",
               "Maygatasan",
               "Noli",
-              "Osme�a",
+              "Osme\u00f1a",
               "Panaytay",
               "Poblacion",
               "Sagmone",
@@ -12391,7 +12376,7 @@
               "San Agustin",
               "San Juan",
               "Santa Teresita",
-              "Santo Ni�o",
+              "Santo Ni\u00f1o",
               "Taglibas",
               "Tagubay",
               "Villa Undayon"
@@ -12471,7 +12456,7 @@
               "Comota",
               "Halapitan",
               "Langasian",
-              "Osme�a, Sr.",
+              "Osme\u00f1a, Sr.",
               "Poblacion",
               "Sagunto",
               "Villa Paz",
@@ -12502,7 +12487,7 @@
               "Kasapa",
               "Katipunan",
               "Kauswagan",
-              "Santo Ni�o",
+              "Santo Ni\u00f1o",
               "Sabud"
             ]
           },
@@ -12607,7 +12592,7 @@
               "Dimasalang",
               "Don Alejandro",
               "Don Pedro",
-              "Do�a Flavia",
+              "Do\u00f1a Flavia",
               "Mahagsay",
               "Mahapag",
               "Mahayahay",
@@ -12618,7 +12603,7 @@
               "Santa Rita",
               "Santiago",
               "Wegguam",
-              "Do�a Maxima"
+              "Do\u00f1a Maxima"
             ]
           },
           "160310000": {
@@ -12814,7 +12799,7 @@
               "Don Paulino",
               "Jubang",
               "Montserrat",
-              "Osme�a",
+              "Osme\u00f1a",
               "Barangay 10 (Pob.)",
               "Barangay 11 (Pob.)",
               "Barangay 12 (Pob.)",
@@ -13029,7 +13014,7 @@
               "Roxas",
               "San Miguel",
               "Santa Paz",
-              "Santo Ni�o",
+              "Santo Ni\u00f1o",
               "Tambacan",
               "Tigasao"
             ]
@@ -13476,7 +13461,7 @@
               "Pong-on",
               "Pongtod",
               "Salvacion",
-              "Santo Ni�o"
+              "Santo Ni\u00f1o"
             ]
           },
           "166816000": {
@@ -13514,7 +13499,7 @@
               "Magsaysay",
               "Malixi",
               "Manambia",
-              "Osme�a",
+              "Osme\u00f1a",
               "Poblacion",
               "Quezon",
               "San Vicente",
@@ -13528,7 +13513,7 @@
               "Trinidad",
               "Ugoban",
               "Villaverde",
-              "Do�a Carmen",
+              "Do\u00f1a Carmen",
               "Hinagdanan"
             ]
           },
@@ -13599,7 +13584,7 @@
               "Columbus",
               "Coring",
               "Cortes",
-              "Do�a Helene",
+              "Do\u00f1a Helene",
               "Ferdinand",
               "Geotina",
               "Imee",
@@ -13618,7 +13603,7 @@
               "New Nazareth",
               "Roma",
               "Santa Monica",
-              "Santo Ni�o",
+              "Santo Ni\u00f1o",
               "Sombrado",
               "Villa Ecleo",
               "Villa Pantinople"
@@ -13666,17 +13651,17 @@
               "Albor (Pob.)",
               "Arellano",
               "Bayanihan",
-              "Do�a Helen",
+              "Do\u00f1a Helen",
               "Garcia",
               "General Aguinaldo",
               "Kanihaan",
               "Magsaysay",
-              "Osme�a",
+              "Osme\u00f1a",
               "Plaridel",
               "Quezon",
               "San Antonio (Pob.)",
               "San Jose",
-              "Santo Ni�o",
+              "Santo Ni\u00f1o",
               "Llamera",
               "Rosita"
             ]
@@ -14118,7 +14103,7 @@
               "Rumbang",
               "Salvacion",
               "San Pedro",
-              "Santo Ni�o",
+              "Santo Ni\u00f1o",
               "Manoot"
             ]
           },
@@ -14141,7 +14126,7 @@
               "San Nicolas",
               "San Vicente",
               "Santa Lucia",
-              "Santo Ni�o",
+              "Santo Ni\u00f1o",
               "Tagumpay",
               "Victoria",
               "Lagnas",
@@ -14380,7 +14365,7 @@
               "San Vicente West (Pob.)",
               "Sta. Cruz",
               "Sta. Isabel",
-              "Sto. Ni�o",
+              "Sto. Ni\u00f1o",
               "Sapul",
               "Silonay",
               "Sta. Maria Village",
@@ -14491,7 +14476,7 @@
               "Paniquian",
               "Pinagsabangan I",
               "Pinagsabangan II",
-              "Pi�ahan",
+              "Pi\u00f1ahan",
               "Poblacion I",
               "Poblacion II",
               "Poblacion III",
@@ -14509,7 +14494,7 @@
               "Santa Isabel",
               "Santa Maria",
               "Santiago",
-              "Santo Ni�o",
+              "Santo Ni\u00f1o",
               "Tagumpay",
               "Tigkan",
               "Melgar B",
@@ -14559,7 +14544,7 @@
               "Sta. Rita",
               "Wawa",
               "Zone I (Pob.)",
-              "Sto. Ni�o",
+              "Sto. Ni\u00f1o",
               "Guinhawa"
             ]
           },
@@ -14601,7 +14586,7 @@
               "Sabang",
               "San Antonio",
               "San Isidro",
-              "Santo Ni�o",
+              "Santo Ni\u00f1o",
               "Sinandigan",
               "Tabinay",
               "Villaflor",
@@ -14768,9 +14753,9 @@
               "Lumacad",
               "Madoldolon",
               "Mauringuen",
-              "Osme�a",
+              "Osme\u00f1a",
               "San Jose De Oro",
-              "Santo Ni�o",
+              "Santo Ni\u00f1o",
               "Taloto",
               "Tinintinan",
               "Tudela",
@@ -14847,7 +14832,7 @@
               "Poblacion I",
               "Poblacion II",
               "Salogon",
-              "Samare�ana",
+              "Samare\u00f1ana",
               "Saraza",
               "Tubtub"
             ]
@@ -14868,7 +14853,7 @@
               "Salvacion",
               "San Isidro",
               "San Rafael",
-              "Santo Ni�o"
+              "Santo Ni\u00f1o"
             ]
           },
           "175308000": {
@@ -14971,7 +14956,7 @@
               "Manlag",
               "Masagana Pob.",
               "New Ibajay",
-              "Pasade�a",
+              "Pasade\u00f1a",
               "Maligaya Pob.",
               "San Fernando",
               "Sibaltan",
@@ -15023,7 +15008,7 @@
               "Burirao",
               "Caguisan",
               "Calategas",
-              "Dumague�a",
+              "Dumague\u00f1a",
               "Elvita",
               "Estrella Village",
               "Ipilan",
@@ -15179,7 +15164,7 @@
               "Port Barton",
               "Poblacion",
               "San Isidro",
-              "Santo Ni�o"
+              "Santo Ni\u00f1o"
             ]
           },
           "175320000": {
@@ -15236,7 +15221,7 @@
               "Libis",
               "Luac",
               "Malaking Patag",
-              "Osme�a",
+              "Osme\u00f1a",
               "Tiza",
               "Burabod",
               "Halsey",
@@ -15260,7 +15245,7 @@
             ]
           },
           "175324000": {
-            "name": "Sofronio Espa�ola",
+            "name": "Sofronio Espa\u00f1ola",
             "barangays": [
               "Abo-abo",
               "Iraray",
@@ -15489,7 +15474,7 @@
               "Cagbo-aya",
               "Carmen",
               "Cawayan",
-              "Do�a Juana",
+              "Do\u00f1a Juana",
               "Dubduban",
               "Hinugusan",
               "Lusong",
@@ -15504,7 +15489,7 @@
             "barangays": [
               "Agpudlos",
               "Calunacon",
-              "Do�a Trinidad",
+              "Do\u00f1a Trinidad",
               "Linawan",
               "Mabini",
               "Marigondon Norte",
@@ -15524,7 +15509,7 @@
               "Azarga",
               "Campalingo",
               "Canjalon",
-              "Espa�a",
+              "Espa\u00f1a",
               "Mabini",
               "Mabulo",
               "Otod",
@@ -15578,7 +15563,7 @@
               "Concepcion Norte (Pob.)",
               "Concepcion Sur",
               "Paroyhog",
-              "Santo Ni�o",
+              "Santo Ni\u00f1o",
               "San Isidro"
             ]
           }
@@ -15986,7 +15971,7 @@
               "Garnaden",
               "Naguillan",
               "Poblacion",
-              "Santo Ni�o",
+              "Santo Ni\u00f1o",
               "Uguis"
             ]
           },
@@ -17082,7 +17067,7 @@
               "Quimmallogong",
               "Rang-ay (Pob.)",
               "Ricudo",
-              "Saba�gan",
+              "Saba\u00f1gan",
               "Sallacapo",
               "Santa Cruz",
               "Sapriana",
@@ -17148,7 +17133,7 @@
               "Libtong",
               "Lubnac",
               "Magsaysay (Pob.)",
-              "Malaca�ang",
+              "Malaca\u00f1ang",
               "Pacac",
               "Pallogan",
               "Pudoc East",
@@ -18260,7 +18245,7 @@
               "Santa Catalina",
               "Santa Maria Norte",
               "Santiago",
-              "Santo Ni�o",
+              "Santo Ni\u00f1o",
               "Sumabnit",
               "Tabuyoc",
               "Vacante"
@@ -18383,7 +18368,7 @@
               "San Pascual",
               "San Vicente",
               "Sapa Grande",
-              "Sapa Peque�a",
+              "Sapa Peque\u00f1a",
               "Tambacan"
             ]
           },
@@ -18465,7 +18450,7 @@
               "Magsaysay",
               "Malacapas",
               "Malimpin",
-              "Osme�a",
+              "Osme\u00f1a",
               "Petal",
               "Poblacion",
               "San Vicente",
@@ -18771,7 +18756,7 @@
               "Olo Cacamposan",
               "Olo Cafabrosan",
               "Olo Cagarlitan",
-              "Osme�a (Pob.)",
+              "Osme\u00f1a (Pob.)",
               "Pacalat",
               "Pampano",
               "Parian",
@@ -18852,7 +18837,7 @@
               "Bobonan",
               "Buneg",
               "Cablong",
-              "Casta�o",
+              "Casta\u00f1o",
               "Dilan",
               "Don Benito",
               "Haway",
@@ -18968,7 +18953,7 @@
               "Mabalbalino",
               "Mabini (Pob.)",
               "Magtaking",
-              "Malaca�ang",
+              "Malaca\u00f1ang",
               "Maliwara",
               "Mamarlao",
               "Manzon",
@@ -19232,7 +19217,7 @@
               "San Jose",
               "San Marcos",
               "Santo Domingo",
-              "Santo Ni�o"
+              "Santo Ni\u00f1o"
             ]
           },
           "015541000": {
@@ -19542,7 +19527,7 @@
           "020904000": {
             "name": "Mahatao",
             "barangays": [
-              "Ha�ib",
+              "Ha\u00f1ib",
               "Kaumbakan",
               "Panatayan",
               "Uvoy (Pob.)"
@@ -19705,7 +19690,7 @@
               "Nangalasauan",
               "Nanuccauan",
               "Pacac-Grande",
-              "Pacac-Peque�o",
+              "Pacac-Peque\u00f1o",
               "Palacu",
               "Palayag",
               "Tana",
@@ -19774,7 +19759,7 @@
               "Barsat East",
               "Barsat West",
               "Bitag Grande",
-              "Bitag Peque�o",
+              "Bitag Peque\u00f1o",
               "Bunugan",
               "Canagatan",
               "Carupian",
@@ -19955,7 +19940,7 @@
               "Union",
               "Bacsay Cataraoan Sur",
               "Cadcadir West",
-              "Camalaggoan/D Lea�o",
+              "Camalaggoan/D Lea\u00f1o",
               "Centro III",
               "Centro V",
               "Centro VIII",
@@ -19963,7 +19948,7 @@
               "San Antonio",
               "San Isidro",
               "San Vicente",
-              "Santo Ni�o",
+              "Santo Ni\u00f1o",
               "Taggat Sur"
             ]
           },
@@ -20032,8 +20017,8 @@
               "Newagac",
               "Palagao Norte",
               "Palagao Sur",
-              "Pi�a Este",
-              "Pi�a Weste",
+              "Pi\u00f1a Este",
+              "Pi\u00f1a Weste",
               "San Vicente",
               "Santa Maria",
               "Sidem",
@@ -20206,7 +20191,7 @@
             ]
           },
           "021519000": {
-            "name": "Pe�ablanca",
+            "name": "Pe\u00f1ablanca",
             "barangays": [
               "Aggugaddan",
               "Alimannao",
@@ -20369,7 +20354,7 @@
             ]
           },
           "021526000": {
-            "name": "Santo Ni�o",
+            "name": "Santo Ni\u00f1o",
             "barangays": [
               "Abariongan Ruar",
               "Abariongan Uneg",
@@ -20638,7 +20623,7 @@
               "San Marcelo",
               "San Roque",
               "San Vicente",
-              "Santo Ni�o",
+              "Santo Ni\u00f1o",
               "Saranay",
               "Sinabbaran",
               "Victory",
@@ -21073,7 +21058,7 @@
               "Namnama",
               "Nanaguan",
               "Cabeseria 7",
-              "Osme�a",
+              "Osme\u00f1a",
               "Paliueg",
               "Pasa",
               "Pilar",
@@ -21170,7 +21155,7 @@
               "Lalog 1",
               "Lalog 2",
               "Luyao",
-              "Maca�ao",
+              "Maca\u00f1ao",
               "Macugay",
               "Mambabanga",
               "Pulay",
@@ -21381,16 +21366,16 @@
               "Banquero",
               "Binarsang",
               "Cutog Grande",
-              "Cutog Peque�o",
+              "Cutog Peque\u00f1o",
               "Dangan",
               "District I (Pob.)",
               "District II (Pob.)",
               "Labinab Grande (Pob.)",
-              "Labinab Peque�o (Pob.)",
+              "Labinab Peque\u00f1o (Pob.)",
               "Mallalatang Grande",
               "Mallalatang Tunggui",
               "Napaccu Grande",
-              "Napaccu Peque�o",
+              "Napaccu Peque\u00f1o",
               "Salucong",
               "Santor",
               "Sinippil",
@@ -21425,9 +21410,9 @@
               "Sotero Nuesa",
               "Villa Concepcion",
               "Matusalem",
-              "Mu�oz East",
-              "Mu�oz West",
-              "Do�a Concha",
+              "Mu\u00f1oz East",
+              "Mu\u00f1oz West",
+              "Do\u00f1a Concha",
               "San Luis"
             ]
           },
@@ -21437,7 +21422,7 @@
               "Bautista",
               "Calaocan",
               "Dabubu Grande",
-              "Dabubu Peque�o",
+              "Dabubu Peque\u00f1o",
               "Dappig",
               "Laoag",
               "Mapalad",
@@ -21452,7 +21437,7 @@
               "Rang-ay",
               "Salay",
               "San Antonio",
-              "Santo Ni�o",
+              "Santo Ni\u00f1o",
               "Santos",
               "Sinaoangan Norte",
               "Sinaoangan Sur",
@@ -21576,7 +21561,7 @@
           "023132000": {
             "name": "San Mateo",
             "barangays": [
-              "Bacare�a",
+              "Bacare\u00f1a",
               "Bagong Sikat",
               "Bella Luz",
               "Daramuangan Sur",
@@ -21585,7 +21570,7 @@
               "Malasin",
               "Mapuroc",
               "Marasat Grande",
-              "Marasat Peque�o",
+              "Marasat Peque\u00f1o",
               "Old Centro I",
               "Old Centro II",
               "Barangay I (Pob.)",
@@ -21711,12 +21696,12 @@
               "Barumbong",
               "Bubug",
               "Bolinao-Culalabo",
-              "Ca�ogan Abajo Norte",
+              "Ca\u00f1ogan Abajo Norte",
               "Calinaoan Centro",
               "Calinaoan Malasin",
               "Calinaoan Norte",
-              "Ca�ogan Abajo Sur",
-              "Ca�ogan Alto",
+              "Ca\u00f1ogan Abajo Sur",
+              "Ca\u00f1ogan Alto",
               "Centro",
               "Colunguan",
               "Malapagay",
@@ -21774,7 +21759,7 @@
               "San Vicente",
               "Santa",
               "Santa Catalina",
-              "Santo Ni�o",
+              "Santo Ni\u00f1o",
               "Sinippil",
               "Sisim Abajo",
               "Sisim Alto",
@@ -22096,7 +22081,7 @@
               "Curifang",
               "Dadap",
               "Lactawan",
-              "Osme�a",
+              "Osme\u00f1a",
               "Poblacion North",
               "Poblacion South",
               "Quezon",
@@ -22188,7 +22173,7 @@
               "Villamor",
               "Zamora",
               "Villarose",
-              "Villa Pe�a",
+              "Villa Pe\u00f1a",
               "Dingasan",
               "Tucod",
               "Gomez",
@@ -22208,7 +22193,7 @@
               "Campamento",
               "Diego Silang",
               "Don Mariano Perez, Sr.",
-              "Do�a Imelda",
+              "Do\u00f1a Imelda",
               "Dumanisi",
               "Gabriela Silang",
               "Gulac",
@@ -22257,7 +22242,7 @@
               "San Martin",
               "San Pedro",
               "San Salvador",
-              "Santo Ni�o",
+              "Santo Ni\u00f1o",
               "Santo Tomas",
               "Villa Gracia",
               "Villa Hermosa Sur",
@@ -22374,7 +22359,7 @@
               "Tuyo",
               "Bagong Silang",
               "Cupang North",
-              "Do�a Francisca",
+              "Do\u00f1a Francisca",
               "Lote"
             ]
           },
@@ -22414,7 +22399,7 @@
               "San Pablo",
               "San Ramon",
               "San Simon",
-              "Santo Ni�o",
+              "Santo Ni\u00f1o",
               "Sapang Balas",
               "Santa Isabel",
               "Torres Bugauen (Pob.)",
@@ -22673,7 +22658,7 @@
               "San Roque",
               "Santa Barbara",
               "Santo Cristo",
-              "Santo Ni�o",
+              "Santo Ni\u00f1o",
               "Subic",
               "Sulivan",
               "Tangos",
@@ -22691,8 +22676,8 @@
               "Bagumbayan",
               "Bambang",
               "Batia",
-              "Bi�ang 1st",
-              "Bi�ang 2nd",
+              "Bi\u00f1ang 1st",
+              "Bi\u00f1ang 2nd",
               "Bolacan",
               "Bundukan",
               "Bunlo",
@@ -22774,7 +22759,7 @@
               "San Marcos",
               "San Miguel",
               "Santa Lucia",
-              "Santo Ni�o",
+              "Santo Ni\u00f1o",
               "Sapang Bayan",
               "Sergio Bayan",
               "Sucol"
@@ -22823,7 +22808,7 @@
               "Santa Cruz",
               "Santa Elena",
               "Santa Monica",
-              "Santo Ni�o (Pob.)",
+              "Santo Ni\u00f1o (Pob.)",
               "Santo Rosario",
               "Tampok",
               "Tibaguin",
@@ -22876,7 +22861,7 @@
               "Santiago",
               "Santisima Trinidad",
               "Santo Cristo",
-              "Santo Ni�o (Pob.)",
+              "Santo Ni\u00f1o (Pob.)",
               "Santo Rosario (Pob.)",
               "Santor",
               "Sumapang Bata",
@@ -22996,7 +22981,7 @@
               "Siling Bata",
               "Siling Matanda",
               "Baka-bakahan",
-              "Santo Ni�o"
+              "Santo Ni\u00f1o"
             ]
           },
           "031416000": {
@@ -23014,7 +22999,7 @@
               "San Roque",
               "San Vicente",
               "Santa Cruz",
-              "Santo Ni�o",
+              "Santo Ni\u00f1o",
               "Santo Rosario"
             ]
           },
@@ -23037,7 +23022,7 @@
               "Rueda",
               "San Jose",
               "Santa Ines",
-              "Santo Ni�o",
+              "Santo Ni\u00f1o",
               "Sipat",
               "Tabang"
             ]
@@ -23127,7 +23112,7 @@
               "Fatima I",
               "San Pedro",
               "San Rafael II",
-              "Santo Ni�o I",
+              "Santo Ni\u00f1o I",
               "Assumption",
               "Bagong Buhay II",
               "Bagong Buhay III",
@@ -23167,7 +23152,7 @@
               "Santa Cruz III",
               "Santa Cruz IV",
               "Santa Cruz V",
-              "Santo Ni�o II",
+              "Santo Ni\u00f1o II",
               "San Martin de Porres"
             ]
           },
@@ -23294,7 +23279,7 @@
             ]
           },
           "031424000": {
-            "name": "Do�a Remedios Trinidad",
+            "name": "Do\u00f1a Remedios Trinidad",
             "barangays": [
               "Bayabas",
               "Kabayunan",
@@ -23466,7 +23451,7 @@
               "Magsaysay South",
               "Maria Theresa",
               "Sangitan East",
-              "Santo Ni�o"
+              "Santo Ni\u00f1o"
             ]
           },
           "034904000": {
@@ -23615,7 +23600,7 @@
               "Santa Cruz",
               "Santo Cristo Norte",
               "Santo Cristo Sur",
-              "Santo Ni�o",
+              "Santo Ni\u00f1o",
               "Makabaclay",
               "Balante",
               "Bungo",
@@ -23863,7 +23848,7 @@
             ]
           },
           "034917000": {
-            "name": "Science City of Mu�oz",
+            "name": "Science City of Mu\u00f1oz",
             "barangays": [
               "Bagong Sikat",
               "Balante",
@@ -23946,7 +23931,7 @@
               "Atate",
               "Caballero",
               "Caimito",
-              "Do�a Josefa",
+              "Do\u00f1a Josefa",
               "Imelda Valley",
               "Langka",
               "Santolan",
@@ -23974,10 +23959,10 @@
             ]
           },
           "034921000": {
-            "name": "Pe�aranda",
+            "name": "Pe\u00f1aranda",
             "barangays": [
               "Callos",
-              "Las Pi�as",
+              "Las Pi\u00f1as",
               "Poblacion I",
               "Poblacion II",
               "Poblacion III",
@@ -23992,7 +23977,7 @@
             "name": "Quezon",
             "barangays": [
               "Bertese",
-              "Do�a Lucia",
+              "Do\u00f1a Lucia",
               "Dulong Bayan",
               "Ilog Baliwag",
               "Barangay I (Pob.)",
@@ -24104,12 +24089,12 @@
               "San Agustin",
               "San Juan",
               "San Mauricio",
-              "Santo Ni�o 1st",
-              "Santo Ni�o 2nd",
+              "Santo Ni\u00f1o 1st",
+              "Santo Ni\u00f1o 2nd",
               "Santo Tomas",
               "Sibut",
               "Sinipit Bubon",
-              "Santo Ni�o 3rd",
+              "Santo Ni\u00f1o 3rd",
               "Tabulac",
               "Tayabo",
               "Tondod",
@@ -24144,7 +24129,7 @@
               "Cojuangco (Pob.)",
               "La Fuente",
               "Liwayway",
-              "Malaca�ang",
+              "Malaca\u00f1ang",
               "Maliolio",
               "Mapalad",
               "Rizal (Pob.)",
@@ -24278,7 +24263,7 @@
               "Mayamot I",
               "Mayamot II",
               "Nangabulan",
-              "Osme�a (Pob.)",
+              "Osme\u00f1a (Pob.)",
               "Pangit",
               "Patola",
               "Quezon (Pob.)",
@@ -24339,7 +24324,7 @@
               "Lourdes North West",
               "Lourdes Sur",
               "Lourdes Sur East",
-              "Malaba�as",
+              "Malaba\u00f1as",
               "Margot",
               "Mining",
               "Pampang",
@@ -24409,7 +24394,7 @@
               "San Roque Bitas",
               "Cupang",
               "Matamo",
-              "Santo Ni�o Tabuan",
+              "Santo Ni\u00f1o Tabuan",
               "Suclayin",
               "Telapayong",
               "Kaledian"
@@ -24476,7 +24461,7 @@
               "Tenejero",
               "Vizal San Pablo",
               "Vizal Santo Cristo",
-              "Vizal Santo Ni�o"
+              "Vizal Santo Ni\u00f1o"
             ]
           },
           "035406000": {
@@ -24549,7 +24534,7 @@
               "Santa Ines",
               "Santa Ursula",
               "Santo Cristo",
-              "Santo Ni�o (Pob.)",
+              "Santo Ni\u00f1o (Pob.)",
               "Ascomo"
             ]
           },
@@ -24597,7 +24582,7 @@
               "Santa Teresa 2nd",
               "Santiago",
               "Santo Domingo",
-              "Santo Ni�o",
+              "Santo Ni\u00f1o",
               "Santo Tomas (Pob.)",
               "Santo Cristo"
             ]
@@ -24657,7 +24642,7 @@
               "Sta. Lutgarda",
               "Sta. Maria",
               "Sta. Rita (Pob.)",
-              "Sto. Ni�o",
+              "Sto. Ni\u00f1o",
               "Sto. Rosario (Pob.)",
               "Saplad David",
               "Tacasan",
@@ -24689,7 +24674,7 @@
               "Santa Cruz (Pob.)",
               "Santa Lucia",
               "Santa Maria",
-              "Santo Ni�o",
+              "Santo Ni\u00f1o",
               "Santo Rosario",
               "Bucanan",
               "Turu",
@@ -24724,7 +24709,7 @@
               "Sta. Lucia Anac (Pob.)",
               "Sapang Kawayan",
               "Sua",
-              "Sto. Ni�o"
+              "Sto. Ni\u00f1o"
             ]
           },
           "035413000": {
@@ -24863,7 +24848,7 @@
               "San Pedro",
               "Santa Lucia",
               "Santa Teresita",
-              "Santo Ni�o",
+              "Santo Ni\u00f1o",
               "Sindalan",
               "Telabastagan",
               "Pulung Bulu"
@@ -24886,7 +24871,7 @@
               "Santa Lucia",
               "Santa Monica",
               "Santa Rita",
-              "Santo Ni�o",
+              "Santo Ni\u00f1o",
               "Santo Rosario",
               "Santo Tomas"
             ]
@@ -24907,7 +24892,7 @@
               "San Pedro",
               "Santa Cruz",
               "Santa Monica",
-              "Santo Ni�o"
+              "Santo Ni\u00f1o"
             ]
           },
           "035419000": {
@@ -25018,7 +25003,7 @@
               "San Rafael",
               "San Roque",
               "San Vicente",
-              "Santo Ni�o"
+              "Santo Ni\u00f1o"
             ]
           },
           "036903000": {
@@ -25145,7 +25130,7 @@
               "San Martin",
               "San Nicolas (Pob.)",
               "San Nicolas Balas",
-              "Santo Ni�o",
+              "Santo Ni\u00f1o",
               "Santa Cruz",
               "Santa Maria",
               "Santa Monica",
@@ -25513,7 +25498,7 @@
               "Santa Maria",
               "Santo Cristo",
               "Santo Domingo",
-              "Santo Ni�o",
+              "Santo Ni\u00f1o",
               "Sapang Maragul",
               "Sapang Tagalog",
               "Sepung Calzada",
@@ -25642,7 +25627,7 @@
               "San Juan (Pob.)",
               "San Rafael",
               "Santa Rita",
-              "Santo Ni�o",
+              "Santo Ni\u00f1o",
               "Tondo",
               "Felmida-Diaz"
             ]
@@ -25765,7 +25750,7 @@
               "West Poblacion",
               "Salaza",
               "San Juan",
-              "Sto. Ni�o",
+              "Sto. Ni\u00f1o",
               "Sto. Tomas",
               "Tition"
             ]
@@ -25795,13 +25780,13 @@
               "Amagna (Pob.)",
               "Apostol (Pob.)",
               "Balincaguing",
-              "Fara�al (Pob.)",
+              "Fara\u00f1al (Pob.)",
               "Feria (Pob.)",
               "Maloma",
               "Manglicmot (Pob.)",
               "Rosete (Pob.)",
               "San Rafael",
-              "Sto. Ni�o",
+              "Sto. Ni\u00f1o",
               "Sindol"
             ]
           },
@@ -26319,7 +26304,7 @@
               "Santa Rita Aplaya",
               "Santa Rita Karsada",
               "Santo Domingo",
-              "Santo Ni�o",
+              "Santo Ni\u00f1o",
               "Simlong",
               "Sirang Lupa",
               "Sorosoro Ibaba",
@@ -26509,7 +26494,7 @@
               "Salaban I",
               "San Agustin",
               "Sandalan",
-              "Santo Ni�o",
+              "Santo Ni\u00f1o",
               "Talaibon",
               "Tulay Na Patpat",
               "Salaban II"
@@ -26681,7 +26666,7 @@
               "San Salvador",
               "Sapac",
               "Sico",
-              "Santo Ni�o",
+              "Santo Ni\u00f1o",
               "Santo Toribio",
               "Talisay",
               "Tambo",
@@ -26756,7 +26741,7 @@
               "San Teodoro",
               "Santa Ana",
               "Santa Mesa",
-              "Santo Ni�o",
+              "Santo Ni\u00f1o",
               "Santo Tomas",
               "Solo",
               "Talaga Proper",
@@ -27058,7 +27043,7 @@
               "Munlawin",
               "Pansipit",
               "Poblacion",
-              "Santo Ni�o",
+              "Santo Ni\u00f1o",
               "Sinturisan",
               "Tagudtod",
               "Talang",
@@ -27097,7 +27082,7 @@
               "San Mariano",
               "San Mateo",
               "Santa Elena",
-              "Santo Ni�o"
+              "Santo Ni\u00f1o"
             ]
           },
           "041027000": {
@@ -27258,7 +27243,7 @@
               "Malaking Pulo",
               "Maria Paz",
               "Maugat",
-              "Monta�a",
+              "Monta\u00f1a",
               "Natatas",
               "Pantay Matanda",
               "Pantay Bata",
@@ -27298,13 +27283,13 @@
               "Mataas Na Lupa",
               "Pag-Asa",
               "Panghayaan",
-              "Pi�a",
+              "Pi\u00f1a",
               "Pinagbayanan",
               "Poblacion East",
               "Poblacion West",
               "San Isidro",
               "San Marcelino",
-              "Santo Ni�o",
+              "Santo Ni\u00f1o",
               "Tilambo"
             ]
           },
@@ -27615,7 +27600,7 @@
             ]
           },
           "042106000": {
-            "name": "City of Dasmari�as",
+            "name": "City of Dasmari\u00f1as",
             "barangays": [
               "Burol",
               "Langkaan I",
@@ -27656,7 +27641,7 @@
               "Santa Lucia",
               "Santa Maria",
               "Santo Cristo",
-              "Santo Ni�o I",
+              "Santo Ni\u00f1o I",
               "Burol I",
               "Burol II",
               "Burol III",
@@ -27688,7 +27673,7 @@
               "San Nicolas II",
               "Santa Cristina II",
               "Santa Cruz II",
-              "Santo Ni�o II",
+              "Santo Ni\u00f1o II",
               "Zone I-B",
               "H-2",
               "Victoria Reyes"
@@ -27699,8 +27684,8 @@
             "barangays": [
               "A. Dalusag",
               "Batas Dao",
-              "Casta�os Cerca",
-              "Casta�os Lejos",
+              "Casta\u00f1os Cerca",
+              "Casta\u00f1os Lejos",
               "Kabulusan",
               "Kaymisas",
               "Kaypaaba",
@@ -28350,9 +28335,9 @@
             ]
           },
           "043403000": {
-            "name": "City of Bi�an",
+            "name": "City of Bi\u00f1an",
             "barangays": [
-              "Bi�an",
+              "Bi\u00f1an",
               "Bungahan",
               "Santo Tomas",
               "Canlalay",
@@ -28367,7 +28352,7 @@
               "Mampalasan",
               "Platero",
               "Poblacion",
-              "Santo Ni�o",
+              "Santo Ni\u00f1o",
               "San Antonio",
               "San Jose",
               "San Vicente",
@@ -28578,7 +28563,7 @@
             ]
           },
           "043411000": {
-            "name": "Los Ba�os",
+            "name": "Los Ba\u00f1os",
             "barangays": [
               "Anos",
               "Bagong Silang",
@@ -28641,7 +28626,7 @@
               "Salac (Pob.)",
               "Segunda Parang (Pob.)",
               "Segunda Pulo (Pob.)",
-              "Santo Ni�o (Pob.)",
+              "Santo Ni\u00f1o (Pob.)",
               "Wawa"
             ]
           },
@@ -28814,7 +28799,7 @@
             "name": "Pagsanjan",
             "barangays": [
               "Anibong",
-              "Bi�an",
+              "Bi\u00f1an",
               "Buboy",
               "Cabanbanan",
               "Calusiche",
@@ -28834,7 +28819,7 @@
           "043420000": {
             "name": "Pakil",
             "barangays": [
-              "Ba�o (Pob.)",
+              "Ba\u00f1o (Pob.)",
               "Banilan",
               "Burgos (Pob.)",
               "Casa Real",
@@ -28977,7 +28962,7 @@
               "Santisimo Rosario",
               "Santo Angel",
               "Santo Cristo",
-              "Santo Ni�o",
+              "Santo Ni\u00f1o",
               "Soledad",
               "Atisan",
               "Santa Elena",
@@ -29002,7 +28987,7 @@
               "San Antonio",
               "San Roque",
               "San Vicente",
-              "Santo Ni�o",
+              "Santo Ni\u00f1o",
               "United Bayanihan",
               "United Better Living",
               "Sampaguita Village",
@@ -29320,7 +29305,7 @@
               "Buli",
               "Dapdap",
               "Dominlog",
-              "Do�a Aurora",
+              "Do\u00f1a Aurora",
               "Guinosayan",
               "Ipil",
               "Kalibo",
@@ -29375,7 +29360,7 @@
               "Tiniguiban",
               "Villa Magsino",
               "Villa San Isidro",
-              "Vi�as",
+              "Vi\u00f1as",
               "Yaganak"
             ]
           },
@@ -29632,7 +29617,7 @@
               "Maunlad (Pob.)",
               "Pagsabangan",
               "Panikihan",
-              "Pe�afrancia (Pob.)",
+              "Pe\u00f1afrancia (Pob.)",
               "Pipisik (Pob.)",
               "Progreso",
               "Rizal (Pob.)",
@@ -29653,7 +29638,7 @@
               "Villa Padua",
               "Villa Perez",
               "Villa M. Principe",
-              "Villa Ta�ada",
+              "Villa Ta\u00f1ada",
               "Villa Victoria",
               "San Diego",
               "Villa Nava",
@@ -29768,7 +29753,7 @@
               "Monteclaro",
               "Pamampangin",
               "Pansol",
-              "Pe�afrancia",
+              "Pe\u00f1afrancia",
               "Pisipis",
               "Rizal",
               "Roma",
@@ -29790,8 +29775,8 @@
               "Santa Lucia",
               "Santa Maria",
               "Santa Rosa",
-              "Santo Ni�o Ibaba",
-              "Santo Ni�o Ilaya",
+              "Santo Ni\u00f1o Ibaba",
+              "Santo Ni\u00f1o Ilaya",
               "Silang",
               "Sugod",
               "Sumalang",
@@ -29799,7 +29784,7 @@
               "Tan-ag Ilaya",
               "Tocalin",
               "Vegaflor",
-              "Verga�a",
+              "Verga\u00f1a",
               "Veronica",
               "Villa Aurora",
               "Villa Espina",
@@ -29959,7 +29944,7 @@
               "San Vicente",
               "Santa Lucia",
               "Santo Angel",
-              "Santo Ni�o",
+              "Santo Ni\u00f1o",
               "Santol",
               "Soledad",
               "Tapucan",
@@ -30030,7 +30015,7 @@
             "name": "Pagbilao",
             "barangays": [
               "Alupaye",
-              "A�ato",
+              "A\u00f1ato",
               "Antipolo",
               "Bantigue",
               "Bigo",
@@ -30118,14 +30103,14 @@
               "Gangahin",
               "Ibabang Burgos",
               "Ibabang Pacatin",
-              "Ibabang Pi�a",
+              "Ibabang Pi\u00f1a",
               "Ibabang Soliyao",
               "Ilayang Burgos",
               "Ilayang Pacatin",
-              "Ilayang Pi�a",
+              "Ilayang Pi\u00f1a",
               "Ilayang Soliyao",
               "Nag-Cruz",
-              "Osme�a",
+              "Osme\u00f1a",
               "Payte",
               "Pinagbayanan",
               "Masaya (Pob.)",
@@ -30170,7 +30155,7 @@
               "Anawan",
               "Atulayan",
               "Balesin",
-              "Ba�adero",
+              "Ba\u00f1adero",
               "Binibitinan",
               "Bislian",
               "Bucao",
@@ -30201,8 +30186,8 @@
               "Guinhawa",
               "Gumubat",
               "Magsino",
-              "Mascari�a",
-              "Monta�a",
+              "Mascari\u00f1a",
+              "Monta\u00f1a",
               "Barangay I (Pob.)",
               "Barangay II (Pob.)",
               "Barangay III (Pob.)",
@@ -30313,8 +30298,8 @@
               "Pugon",
               "Silongin",
               "Don Juan Vercelos",
-              "Mabu�ga",
-              "Santo Ni�o"
+              "Mabu\u00f1ga",
+              "Santo Ni\u00f1o"
             ]
           },
           "045644000": {
@@ -30356,7 +30341,7 @@
               "Bignay 2",
               "Bucal",
               "Canda",
-              "Casta�as",
+              "Casta\u00f1as",
               "Concepcion Banahaw",
               "Concepcion No. 1",
               "Concepcion Palasan",
@@ -30435,8 +30420,8 @@
               "San Vicente",
               "Santa Cecilia",
               "Santa Monica",
-              "Santo Ni�o I",
-              "Santo Ni�o II",
+              "Santo Ni\u00f1o I",
+              "Santo Ni\u00f1o II",
               "Santo Tomas",
               "Seguiwan",
               "Tabason",
@@ -30608,7 +30593,7 @@
               "San Pedro",
               "San Roque",
               "San Vicente",
-              "Santo Ni�o",
+              "Santo Ni\u00f1o",
               "Mahabang Parang"
             ]
           },
@@ -30701,7 +30686,7 @@
               "San Juan",
               "San Roque",
               "Santa Rosa",
-              "Santo Ni�o",
+              "Santo Ni\u00f1o",
               "Santo Domingo"
             ]
           },
@@ -30803,7 +30788,7 @@
               "Banaba",
               "Gulod Malaya",
               "Pintong Bocawe",
-              "Santo Ni�o",
+              "Santo Ni\u00f1o",
               "Silangan"
             ]
           },
@@ -30824,7 +30809,7 @@
               "San Andres",
               "San Isidro (Pob.)",
               "Santa Inez",
-              "Santo Ni�o",
+              "Santo Ni\u00f1o",
               "Tabing Ilog (Pob.)",
               "Tandang Kutyo (Pob.)",
               "Tinucan",
@@ -30937,8 +30922,8 @@
               "Binanderahan",
               "Binitayan",
               "Bongabong",
-              "Cabag�an",
-              "Cabraran Peque�o",
+              "Cabag\u00f1an",
+              "Cabraran Peque\u00f1o",
               "Calabidongan",
               "Comun",
               "Cotmon",
@@ -30990,8 +30975,8 @@
               "Anislag",
               "Bagumbayan",
               "Balinad",
-              "Ba�adero",
-              "Ba�ag",
+              "Ba\u00f1adero",
+              "Ba\u00f1ag",
               "Bascaran",
               "Bigao",
               "Binitayan",
@@ -31026,14 +31011,14 @@
               "Nabasan",
               "Namantao",
               "Pandan",
-              "Pe�afrancia",
+              "Pe\u00f1afrancia",
               "Sagpon",
               "Salvacion",
               "San Rafael",
               "San Ramon",
               "San Roque",
               "San Vicente Grande",
-              "San Vicente Peque�o",
+              "San Vicente Peque\u00f1o",
               "Sipi",
               "Tabon-tabon",
               "Tagas",
@@ -31051,13 +31036,13 @@
               "Binogsacan Lower",
               "Bololo",
               "Bubulusan",
-              "Marcial O. Ra�ola",
+              "Marcial O. Ra\u00f1ola",
               "Calzada",
               "Catomag",
-              "Do�a Mercedes",
-              "Do�a Tomasa",
+              "Do\u00f1a Mercedes",
+              "Do\u00f1a Tomasa",
               "Ilawod",
-              "Inamnan Peque�o",
+              "Inamnan Peque\u00f1o",
               "Inamnan Grande",
               "Inascan",
               "Iraya",
@@ -31073,7 +31058,7 @@
               "Mauraro",
               "Minto",
               "Morera",
-              "Muladbucad Peque�o",
+              "Muladbucad Peque\u00f1o",
               "Muladbucad Grande",
               "Ongo",
               "Palanas",
@@ -31133,13 +31118,13 @@
               "Bgy. 15 - Ilawod East Pob.",
               "Bgy. 16 - Kawit-East Washington Drive (Pob.)",
               "Bgy. 17 - Rizal Street., Ilawod (Pob.)",
-              "Bgy. 19 - Cabag�an",
+              "Bgy. 19 - Cabag\u00f1an",
               "Bgy. 2 - Em's Barrio South (Pob.)",
-              "Bgy. 18 - Cabag�an West (Pob.)",
+              "Bgy. 18 - Cabag\u00f1an West (Pob.)",
               "Bgy. 21 - Binanuahan West (Pob.)",
               "Bgy. 22 - Binanuahan East (Pob.)",
               "Bgy. 23 - Imperial Court Subd. (Pob.)",
-              "Bgy. 20 - Cabag�an East (Pob.)",
+              "Bgy. 20 - Cabag\u00f1an East (Pob.)",
               "Bgy. 25 - Lapu-lapu (Pob.)",
               "Bgy. 26 - Dinagaan (Pob.)",
               "Bgy. 27 - Victory Village South (Pob.)",
@@ -31149,15 +31134,15 @@
               "Bgy. 36 - Kapantawan (Pob.)",
               "Bgy. 30 - Pigcale (Pob.)",
               "Bgy. 31 - Centro-Baybay (Pob.)",
-              "Bgy. 33 - PNR-Pe�aranda St.-Iraya (Pob.)",
+              "Bgy. 33 - PNR-Pe\u00f1aranda St.-Iraya (Pob.)",
               "Bgy. 34 - Oro Site-Magallanes St. (Pob.)",
               "Bgy. 35 - Tinago (Pob.)",
               "Bgy. 37 - Bitano (Pob.)",
               "Bgy. 39 - Bonot (Pob.)",
               "Bgy. 4 - Sagpon Pob.",
               "Bgy. 5 - Sagmin Pob.",
-              "Bgy. 6 - Ba�adero Pob.",
-              "Bgy. 7 - Ba�o (Pob.)",
+              "Bgy. 6 - Ba\u00f1adero Pob.",
+              "Bgy. 7 - Ba\u00f1o (Pob.)",
               "Bgy. 8 - Bagumbayan (Pob.)",
               "Bgy. 9 - Pinaric (Pob.)",
               "Bgy. 67 - Bariis",
@@ -31239,7 +31224,7 @@
               "San Ramon",
               "San Vicente",
               "Santa Cruz",
-              "Ni�o Jesus",
+              "Ni\u00f1o Jesus",
               "Talin-talin",
               "Tambo",
               "Villa Petrona"
@@ -31301,7 +31286,7 @@
               "Tomolin",
               "Tuburan",
               "Tula-tula Grande",
-              "Tula-tula Peque�o",
+              "Tula-tula Peque\u00f1o",
               "Tupas"
             ]
           },
@@ -31589,7 +31574,7 @@
               "San Isidro",
               "San Roque",
               "Santa Misericordia",
-              "Santo Ni�o",
+              "Santo Ni\u00f1o",
               "Market Site Pob.",
               "Pandayan Pob."
             ]
@@ -31604,13 +31589,13 @@
               "Baranghawon",
               "Basagan",
               "Basud (Pob.)",
-              "Bog�abong",
+              "Bog\u00f1abong",
               "Bombon (Pob.)",
               "Bonot",
               "San Isidro",
               "Buang",
               "Buhian",
-              "Cabag�an",
+              "Cabag\u00f1an",
               "Cobo",
               "Comon",
               "Cormidal",
@@ -31801,7 +31786,7 @@
               "Luklukan Sur",
               "Motherlode",
               "Nakalaya",
-              "Osme�a",
+              "Osme\u00f1a",
               "Pag-Asa",
               "Parang",
               "Plaridel",
@@ -31996,7 +31981,7 @@
               "San Nicolas",
               "Santa Cruz",
               "Santa Elena",
-              "Santo Ni�o"
+              "Santo Ni\u00f1o"
             ]
           },
           "051612000": {
@@ -32104,7 +32089,7 @@
               "Manga",
               "Masoli",
               "Neighborhood",
-              "Ni�o Jesus",
+              "Ni\u00f1o Jesus",
               "Pagatpatan",
               "Palo",
               "Payak",
@@ -32213,7 +32198,7 @@
               "San Roque Heights",
               "Santa Elena",
               "Santo Domingo",
-              "Santo Ni�o",
+              "Santo Ni\u00f1o",
               "Taisan"
             ]
           },
@@ -32240,7 +32225,7 @@
               "Belen",
               "Bigaas",
               "Binanuaanan Grande",
-              "Binanuaanan Peque�o",
+              "Binanuaanan Peque\u00f1o",
               "Binaliw",
               "Bonot-Santa Rosa",
               "Burabod",
@@ -32277,7 +32262,7 @@
               "Santa Isabel (Pob.)",
               "Santa Salud (Pob.)",
               "Santo Domingo",
-              "Santo Ni�o",
+              "Santo Ni\u00f1o",
               "Siba-o",
               "Sibobo",
               "Sogod",
@@ -32468,7 +32453,7 @@
             "barangays": [
               "Abucayan",
               "Bagumbayan Grande (Pob.)",
-              "Bagumbayan Peque�o (Pob.)",
+              "Bagumbayan Peque\u00f1o (Pob.)",
               "Balaynan",
               "Belen (Pob.)",
               "Buyo",
@@ -32513,7 +32498,7 @@
               "La Medalla",
               "La Purisima",
               "La Trinidad",
-              "Ni�o Jesus",
+              "Ni\u00f1o Jesus",
               "Perpetual Help",
               "Sagrada",
               "Salvacion",
@@ -32540,7 +32525,7 @@
               "Santa Teresita",
               "Santiago",
               "Santo Domingo",
-              "Santo Ni�o"
+              "Santo Ni\u00f1o"
             ]
           },
           "051717000": {
@@ -32842,7 +32827,7 @@
               "Cararayan",
               "Carolina",
               "Concepcion Grande",
-              "Concepcion Peque�a",
+              "Concepcion Peque\u00f1a",
               "Dayangdang",
               "Del Rosario",
               "Dinaga",
@@ -32852,7 +32837,7 @@
               "Mabolo",
               "Pacol",
               "Panicuason",
-              "Pe�afrancia",
+              "Pe\u00f1afrancia",
               "Sabang",
               "San Felipe",
               "San Francisco (Pob.)",
@@ -32889,7 +32874,7 @@
               "San Roque Commonal",
               "San Vicente",
               "Santa Cruz",
-              "Santo Ni�o",
+              "Santo Ni\u00f1o",
               "Villaflorida"
             ]
           },
@@ -32965,7 +32950,7 @@
               "San Juan (Pob.)",
               "San Vicente (Pob.)",
               "Santiago (Pob.)",
-              "Santo Ni�o",
+              "Santo Ni\u00f1o",
               "Tagbong",
               "Tinangis"
             ]
@@ -33037,7 +33022,7 @@
             ]
           },
           "051731000": {
-            "name": "Sag�ay",
+            "name": "Sag\u00f1ay",
             "barangays": [
               "Aniog",
               "Atulayan",
@@ -33054,7 +33039,7 @@
               "San Antonio (Pob.)",
               "San Isidro (Pob.)",
               "San Roque (Pob.)",
-              "Santo Ni�o",
+              "Santo Ni\u00f1o",
               "Sibaguan",
               "Tinorongan",
               "Turague"
@@ -33073,10 +33058,10 @@
               "Cotmo",
               "Daculang Tubig",
               "Del Pilar (Pob.)",
-              "G�aran",
+              "G\u00f1aran",
               "Grijalvo",
               "Lupi",
-              "Marag�i",
+              "Marag\u00f1i",
               "Pamukid",
               "Pinamasagan",
               "Pipian",
@@ -33255,7 +33240,7 @@
               "La Medalla",
               "New Caaluan",
               "Olag Grande",
-              "Olag Peque�o",
+              "Olag Peque\u00f1o",
               "Old Caaluan",
               "Pag-Asa",
               "Pantat",
@@ -33322,7 +33307,7 @@
               "Macutal",
               "Moning",
               "Nagbarorong",
-              "Osme�a",
+              "Osme\u00f1a",
               "P. Teston",
               "Paniquihan",
               "Eastern Poblacion",
@@ -33341,7 +33326,7 @@
           "052003000": {
             "name": "Bato",
             "barangays": [
-              "Aroyao Peque�o",
+              "Aroyao Peque\u00f1o",
               "Bagumbayan",
               "Banawang",
               "Batalay",
@@ -33420,7 +33405,7 @@
             "name": "Pandan",
             "barangays": [
               "Bagawang",
-              "Balag�onan",
+              "Balag\u00f1onan",
               "Baldoc",
               "Canlubi",
               "Santa Cruz",
@@ -33562,9 +33547,9 @@
               "Mabini",
               "Magsaysay",
               "Ogbong",
-              "Osme�a",
+              "Osme\u00f1a",
               "Pedro Vera",
-              "Pe�afrancia (Pob.)",
+              "Pe\u00f1afrancia (Pob.)",
               "Quezon",
               "Quirino",
               "Rizal",
@@ -33642,7 +33627,7 @@
               "Santa Elena (Pob.)",
               "Santo Cristo",
               "Santo Domingo",
-              "Santo Ni�o",
+              "Santo Ni\u00f1o",
               "Simamla",
               "Sogod-Simamla",
               "Talisoy",
@@ -33773,7 +33758,7 @@
             "barangays": [
               "Burgos",
               "Canares",
-              "Camba�ez",
+              "Camba\u00f1ez",
               "Costa Rica",
               "Danao",
               "Gibraltar",
@@ -33812,7 +33797,7 @@
               "Matubinao",
               "Mintac",
               "Nadawisan",
-              "Osme�a",
+              "Osme\u00f1a",
               "Pawican",
               "Pitogo",
               "Poblacion",
@@ -33822,7 +33807,7 @@
               "San Pedro",
               "San Rafael",
               "Santa Teresita",
-              "Santo Ni�o",
+              "Santo Ni\u00f1o",
               "Tagboan",
               "Tuybo",
               "Villa Pogado"
@@ -33863,7 +33848,7 @@
               "Chico Island",
               "Lague-lague",
               "Palobandera",
-              "Pe�a Island",
+              "Pe\u00f1a Island",
               "Pin-As",
               "Iraya",
               "Punta Batsan",
@@ -33874,7 +33859,7 @@
             "name": "Claveria",
             "barangays": [
               "Albasan",
-              "Boca Enga�o",
+              "Boca Enga\u00f1o",
               "Buyo",
               "Calpi",
               "Canomay",
@@ -33886,9 +33871,9 @@
               "Manapao",
               "Nabasagan",
               "Nonoc",
-              "Osme�a",
+              "Osme\u00f1a",
               "Pasig",
-              "Pe�afrancia",
+              "Pe\u00f1afrancia",
               "Quezon",
               "San Isidro",
               "San Ramon",
@@ -34002,7 +33987,7 @@
               "Kalipay (Pob.)",
               "Kinamaligan",
               "Malinta",
-              "Mapi�a",
+              "Mapi\u00f1a",
               "Mayngaran",
               "Nursery",
               "Pating (Pob.)",
@@ -34091,7 +34076,7 @@
               "Guinhadap",
               "Real",
               "Rizal",
-              "Santo Ni�o",
+              "Santo Ni\u00f1o",
               "Togoron"
             ]
           },
@@ -34114,7 +34099,7 @@
               "Nabangig",
               "Nipa",
               "Parina",
-              "Pi�a",
+              "Pi\u00f1a",
               "Poblacion",
               "Salvacion",
               "San Antonio",
@@ -34196,7 +34181,7 @@
               "Buenavista",
               "Buenos Aires",
               "Buyo",
-              "Ca�elas",
+              "Ca\u00f1elas",
               "Corbada",
               "Daplian",
               "Del Rosario",
@@ -34221,7 +34206,7 @@
           "054119000": {
             "name": "San Jacinto",
             "barangays": [
-              "Almi�e",
+              "Almi\u00f1e",
               "Bagacay",
               "Bagahanglad",
               "Bartolabac",
@@ -34233,7 +34218,7 @@
               "Jagna-an",
               "Luna",
               "Mabini",
-              "Pi�a",
+              "Pi\u00f1a",
               "District I (Pob.)",
               "District II (Pob.)",
               "District III (Pob.)",
@@ -34387,7 +34372,7 @@
               "N. Roque",
               "Namo",
               "Obrero",
-              "Osme�a",
+              "Osme\u00f1a",
               "Otavi",
               "Padre Diaz",
               "Palale",
@@ -34848,7 +34833,7 @@
             "name": "Santa Magdalena",
             "barangays": [
               "La Esperanza",
-              "Pe�afrancia",
+              "Pe\u00f1afrancia",
               "Barangay Poblacion I",
               "Barangay Poblacion II",
               "Barangay Poblacion III",
@@ -34888,7 +34873,7 @@
               "Pamurayan",
               "Pangpang",
               "Panlayaan",
-              "Pe�afrancia",
+              "Pe\u00f1afrancia",
               "Piot (Pob.)",
               "Polvorista (Pob.)",
               "Rizal",
@@ -34906,7 +34891,7 @@
               "Balogo",
               "Bato",
               "Bon-Ot",
-              "Bog�a",
+              "Bog\u00f1a",
               "Buenavista",
               "Cabarbuhan",
               "Caricaran",
@@ -34927,7 +34912,7 @@
               "Santa Cruz",
               "Santa Lucia",
               "Santo Domingo",
-              "Santo Ni�o",
+              "Santo Ni\u00f1o",
               "Sawanga",
               "Sugod"
             ]
@@ -35363,7 +35348,7 @@
             "name": "Anini-Y",
             "barangays": [
               "Bayo Grande",
-              "Bayo Peque�o",
+              "Bayo Peque\u00f1o",
               "Butuan",
               "Casay",
               "Casay Viejo",
@@ -35528,7 +35513,7 @@
               "Janlagasi",
               "Lamputong",
               "Lipata",
-              "Malaca�ang",
+              "Malaca\u00f1ang",
               "Malalison Island",
               "Maniguin",
               "Naba",
@@ -35769,7 +35754,7 @@
           "060612000": {
             "name": "Patnongon",
             "barangays": [
-              "Alva�iz",
+              "Alva\u00f1iz",
               "Amparo",
               "Apgahan",
               "Aureliana",
@@ -35930,7 +35915,7 @@
               "Catungan III",
               "Catungan IV",
               "Cubay-Sermon",
-              "Ega�a",
+              "Ega\u00f1a",
               "Esperanza I",
               "Esperanza II",
               "Esperanza III",
@@ -36115,7 +36100,7 @@
               "Santa Rita",
               "Santa Teresa",
               "Santo Angel",
-              "Santo Ni�o",
+              "Santo Ni\u00f1o",
               "Santo Rosario",
               "Poblacion"
             ]
@@ -36238,7 +36223,7 @@
               "Old Guia",
               "Palaguian",
               "Parallan",
-              "Pi�a",
+              "Pi\u00f1a",
               "Poblacion Ilawod",
               "Poblacion Ilaya",
               "Poblacion Tabuc",
@@ -36442,7 +36427,7 @@
               "Pondol",
               "Quiajo",
               "Sangkal",
-              "Santo Ni�o",
+              "Santo Ni\u00f1o",
               "Vizcaya"
             ]
           },
@@ -36543,7 +36528,7 @@
             "name": "Tapaz",
             "barangays": [
               "Abangay",
-              "Acu�a",
+              "Acu\u00f1a",
               "Agcococ",
               "Aglinab",
               "Aglupacan",
@@ -36855,7 +36840,7 @@
               "Bugnay",
               "California",
               "Del Pilar",
-              "De la Pe�a",
+              "De la Pe\u00f1a",
               "General Luna",
               "La Fortuna",
               "Lipata",
@@ -37009,13 +36994,13 @@
               "Aglonok",
               "Alibunan",
               "Badlan Grande",
-              "Badlan Peque�o",
+              "Badlan Peque\u00f1o",
               "Badu",
               "Balaticon",
               "Banban Grande",
-              "Banban Peque�o",
+              "Banban Peque\u00f1o",
               "Binolosan Grande",
-              "Binolosan Peque�o",
+              "Binolosan Peque\u00f1o",
               "Cabagiao",
               "Cabugao",
               "Cahigon",
@@ -37027,7 +37012,7 @@
               "Dalid",
               "Datagan",
               "Gama Grande",
-              "Gama Peque�o",
+              "Gama Peque\u00f1o",
               "Garangan",
               "Guinbonyugan",
               "Guiso",
@@ -37082,7 +37067,7 @@
               "Buenavista",
               "Isla De Cana",
               "Cabilao Grande",
-              "Cabilao Peque�o",
+              "Cabilao Peque\u00f1o",
               "Cabuguana",
               "Cawayan",
               "Dayhagan",
@@ -37122,7 +37107,7 @@
               "Macatunao",
               "Malangabang",
               "Maliogliog",
-              "Ni�o",
+              "Ni\u00f1o",
               "Nipa",
               "Plandico",
               "Poblacion",
@@ -37172,7 +37157,7 @@
             ]
           },
           "063017000": {
-            "name": "Due�as",
+            "name": "Due\u00f1as",
             "barangays": [
               "Agutayan",
               "Angare",
@@ -37208,11 +37193,11 @@
               "Pader",
               "Pandan",
               "Ponong Grande",
-              "Ponong Peque�o",
+              "Ponong Peque\u00f1o",
               "Purog",
               "Romblon",
               "San Isidro",
-              "Santo Ni�o",
+              "Santo Ni\u00f1o",
               "Sawe",
               "Taminla",
               "Tinocuan",
@@ -37280,7 +37265,7 @@
               "Bayas",
               "Bayuyan",
               "Botongon",
-              "Bulaque�a",
+              "Bulaque\u00f1a",
               "Calapdan",
               "Cano-an",
               "Daan Banua",
@@ -37401,7 +37386,7 @@
               "Alalasan Lapuz",
               "Arguelles",
               "Arsenal Aduana",
-              "North Avance�a",
+              "North Avance\u00f1a",
               "Bakhaw",
               "Balabago",
               "Balantang",
@@ -37503,10 +37488,10 @@
               "North Fundidor",
               "North Baluarte",
               "North San Jose",
-              "O�ate de Leon",
+              "O\u00f1ate de Leon",
               "Obrero-Lapuz",
               "Ortiz",
-              "Osme�a",
+              "Osme\u00f1a",
               "Our Lady Of Lourdes",
               "Rizal Palapala I",
               "Rizal Palapala II",
@@ -37542,8 +37527,8 @@
               "Santa Filomena",
               "Santa Rosa",
               "Santo Domingo",
-              "Santo Ni�o Norte",
-              "Santo Ni�o Sur",
+              "Santo Ni\u00f1o Norte",
+              "Santo Ni\u00f1o Sur",
               "Santo Rosario-Duran",
               "Simon Ledesma",
               "So-oc",
@@ -37683,13 +37668,13 @@
               "Jayubo",
               "Jorog",
               "Lanot Grande",
-              "Lanot Peque�o",
+              "Lanot Peque\u00f1o",
               "Legayada",
               "Lumanay",
               "Madarag",
               "Magbato",
               "Maite Grande",
-              "Maite Peque�o",
+              "Maite Peque\u00f1o",
               "Malag-it",
               "Manaulan",
               "Maribong",
@@ -37748,12 +37733,12 @@
             "barangays": [
               "Agpipili",
               "Alcantara",
-              "Alme�ana",
+              "Alme\u00f1ana",
               "Anabo",
               "Bankal",
               "Buenavista",
               "Cabantohan",
-              "Capi�ahan",
+              "Capi\u00f1ahan",
               "Dalipe",
               "Dapdapan",
               "Gerongan",
@@ -37894,8 +37879,8 @@
               "DELCAR Pob.",
               "Inabasan",
               "Layog",
-              "Li�agan Calsada",
-              "Li�agan Tacas",
+              "Li\u00f1agan Calsada",
+              "Li\u00f1agan Tacas",
               "Linab",
               "MARI Pob.",
               "Magsaysay",
@@ -38068,7 +38053,7 @@
               "Naumuan",
               "Singay",
               "Talibong Grande",
-              "Talibong Peque�o",
+              "Talibong Peque\u00f1o",
               "Tipolo",
               "Tolarucan",
               "Tumay",
@@ -38175,9 +38160,9 @@
               "Maasin",
               "Magdungao",
               "Malag-it Grande",
-              "Malag-it Peque�o",
+              "Malag-it Peque\u00f1o",
               "Mambiranan Grande",
-              "Mambiranan Peque�o",
+              "Mambiranan Peque\u00f1o",
               "Man-it",
               "Mantulang",
               "Mulapula",
@@ -38188,7 +38173,7 @@
               "Poblacion Ilaya",
               "Punong",
               "Quinagaringan Grande",
-              "Quinagaringan Peque�o",
+              "Quinagaringan Peque\u00f1o",
               "Sablogon",
               "Salngan",
               "Santo Tomas",
@@ -38285,7 +38270,7 @@
               "Bagacay",
               "Batuan",
               "Bondulan",
-              "Boro�gon",
+              "Boro\u00f1gon",
               "Canas",
               "Capinang",
               "Cubay",
@@ -38328,7 +38313,7 @@
               "Dumiles",
               "Garita",
               "Gines Nuevo",
-              "Imbang Peque�o",
+              "Imbang Peque\u00f1o",
               "Imbesad-an",
               "Iprog",
               "Lip-ac",
@@ -38460,7 +38445,7 @@
               "Santa Cruz",
               "Santa Teresa",
               "Santo Angel",
-              "Santo Ni�o"
+              "Santo Ni\u00f1o"
             ]
           },
           "063042000": {
@@ -38986,7 +38971,7 @@
               "Pasil",
               "San Isidro",
               "San Jose",
-              "Santo Ni�o",
+              "Santo Ni\u00f1o",
               "Tabigue",
               "Tanza",
               "Tuburan",
@@ -39580,7 +39565,7 @@
               "Nazaret",
               "New Poblacion",
               "Old Poblacion",
-              "Pi�a",
+              "Pi\u00f1a",
               "Rizal",
               "Salvacion",
               "San Fernando",
@@ -39830,7 +39815,7 @@
               "Sal-ing",
               "San Isidro",
               "San Roque",
-              "Santo Ni�o",
+              "Santo Ni\u00f1o",
               "Tagustusan"
             ]
           },
@@ -40140,7 +40125,7 @@
               "San Carlos",
               "San Miguel",
               "Santa Fe",
-              "Santo Ni�o",
+              "Santo Ni\u00f1o",
               "Tabok",
               "Taming",
               "Villa Anunciado"
@@ -40334,7 +40319,7 @@
               "Saa",
               "San Isidro",
               "San Jose",
-              "Santo Ni�o",
+              "Santo Ni\u00f1o",
               "Santo Rosario",
               "Sua",
               "Tambook",
@@ -40404,7 +40389,7 @@
               "Saguise",
               "Salog",
               "San Jose",
-              "Santo Ni�o",
+              "Santo Ni\u00f1o",
               "Taytay",
               "Tugas",
               "Tulang"
@@ -40755,7 +40740,7 @@
               "San Isidro",
               "San Jose",
               "San Vicente",
-              "Santo Ni�o",
+              "Santo Ni\u00f1o",
               "Tomoc"
             ]
           },
@@ -40862,7 +40847,7 @@
               "San Jose",
               "San Pedro",
               "San Roque",
-              "Santo Ni�o",
+              "Santo Ni\u00f1o",
               "Sikatuna",
               "Suba",
               "Tanghaligue",
@@ -41254,7 +41239,7 @@
               "Sunog",
               "Vito",
               "Baliwagan (Pob.)",
-              "Santa Cruz-Santo Ni�o (Pob.)"
+              "Santa Cruz-Santo Ni\u00f1o (Pob.)"
             ]
           },
           "072209000": {
@@ -41361,7 +41346,7 @@
               "Polambato",
               "Sambag (Pob.)",
               "San Vicente (Pob.)",
-              "Santo Ni�o",
+              "Santo Ni\u00f1o",
               "Santo Rosario (Pob.)",
               "Siocon",
               "Taytayan",
@@ -41825,7 +41810,7 @@
               "Pajo",
               "Pangan-an",
               "Poblacion",
-              "Punta Enga�o",
+              "Punta Enga\u00f1o",
               "Pusok",
               "Sabang",
               "Santa Rosa",
@@ -41877,17 +41862,17 @@
           "072229000": {
             "name": "Malabuyoc",
             "barangays": [
-              "Arme�a",
+              "Arme\u00f1a",
               "Tolosa",
-              "Cerde�a",
+              "Cerde\u00f1a",
               "Labrador",
               "Looc",
               "Lombo",
               "Mahanlud",
               "Mindanao",
-              "Monta�eza",
+              "Monta\u00f1eza",
               "Salmeron",
-              "Santo Ni�o",
+              "Santo Ni\u00f1o",
               "Sorsogon",
               "Barangay I (Pob.)",
               "Barangay II (Pob.)"
@@ -42034,7 +42019,7 @@
               "Bonbon",
               "Calumpang",
               "Canangca-an",
-              "Ca�ang",
+              "Ca\u00f1ang",
               "Can-ukban",
               "Cansalo-ay",
               "Daanlungsod",
@@ -42433,7 +42418,7 @@
               "Sagay",
               "Sam-ang",
               "Sangi",
-              "Santo Ni�o",
+              "Santo Ni\u00f1o",
               "Subayon",
               "Talavera",
               "Tungkay",
@@ -42484,7 +42469,7 @@
               "Putat",
               "San Juan",
               "Sandayong",
-              "Santo Ni�o",
+              "Santo Ni\u00f1o",
               "Siotes",
               "Sumon",
               "Tominjao",
@@ -42595,7 +42580,7 @@
               "Barangay I (Pob.)",
               "Barangay II (Pob.)",
               "Basak",
-              "Bi�ohon",
+              "Bi\u00f1ohon",
               "Cabanlutan",
               "Calasga-an",
               "Cambagahan",
@@ -42603,7 +42588,7 @@
               "Cambanjao",
               "Cambuilao",
               "Canlargo",
-              "Capi�ahan",
+              "Capi\u00f1ahan",
               "Consolacion",
               "Dansulan",
               "Hangyad",
@@ -42696,7 +42681,7 @@
               "Nagcasunog",
               "Nalundan",
               "Pangalaycayan",
-              "Pe�ahan",
+              "Pe\u00f1ahan",
               "Poblacion",
               "Salong",
               "Tagaytay",
@@ -42991,8 +42976,8 @@
               "Naiba",
               "Poblacion",
               "San Roque",
-              "Santo Ni�o",
-              "Se�ora Ascion",
+              "Santo Ni\u00f1o",
+              "Se\u00f1ora Ascion",
               "Siapo",
               "Tampi",
               "Tapon Norte"
@@ -43101,7 +43086,7 @@
               "San Miguel",
               "Santa Cruz Nuevo",
               "Santa Cruz Viejo",
-              "Santo Ni�o",
+              "Santo Ni\u00f1o",
               "Tugas"
             ]
           },
@@ -43564,7 +43549,7 @@
               "Libertad",
               "Magsaysay",
               "Malobago",
-              "Osme�a",
+              "Osme\u00f1a",
               "Barangay 1 (Pob.)",
               "Barangay 10 (Pob.)",
               "Barangay 11 (Pob.)",
@@ -43586,7 +43571,7 @@
               "San Roque",
               "San Vicente",
               "Santa Cruz",
-              "Santo Ni�o",
+              "Santo Ni\u00f1o",
               "Tanauan",
               "Villahermosa",
               "Bonghon",
@@ -43604,7 +43589,7 @@
               "Domrog",
               "Limbujan",
               "Magsaysay",
-              "Osme�a",
+              "Osme\u00f1a",
               "Pingan",
               "Poblacion Barangay 1",
               "Poblacion Barangay 2",
@@ -43713,7 +43698,7 @@
               "Hagna",
               "Hollywood",
               "San Juan",
-              "Santo Ni�o",
+              "Santo Ni\u00f1o",
               "Tagporo"
             ]
           },
@@ -43944,7 +43929,7 @@
               "San Vicente",
               "Santa Cruz",
               "Santa Margarita",
-              "Santo Ni�o",
+              "Santo Ni\u00f1o",
               "Palactad",
               "Alang-alang",
               "Barangay No. 6 (Pob.)",
@@ -44058,7 +44043,7 @@
               "San Juan",
               "San Mateo",
               "San Vicente",
-              "Santo Ni�o",
+              "Santo Ni\u00f1o",
               "Santo Tomas",
               "Tabi (Pob.)",
               "Abucay (Pob.)"
@@ -44154,7 +44139,7 @@
               "San Roque",
               "Santa Fe (Pob.)",
               "Santa Lucia (Pob.)",
-              "Santo Ni�o (Pob.)",
+              "Santo Ni\u00f1o (Pob.)",
               "Tabigue",
               "Tadoc",
               "New Taligue",
@@ -44200,7 +44185,7 @@
               "Magsaysay",
               "Mudboron",
               "P. Barrantes",
-              "Pe�alosa",
+              "Pe\u00f1alosa",
               "Pepita",
               "Salvacion Poblacion",
               "San Antonio",
@@ -44211,7 +44196,7 @@
               "San Pedro",
               "San Vicente",
               "Santiago",
-              "Santo Ni�o (Pob.)",
+              "Santo Ni\u00f1o (Pob.)",
               "Santol",
               "Tabangohay",
               "Tombo",
@@ -44233,7 +44218,7 @@
               "Benolho",
               "Cambalading",
               "Damula-an",
-              "Do�a Maria",
+              "Do\u00f1a Maria",
               "Mahayag",
               "Mahayahay",
               "Poblacion",
@@ -44340,12 +44325,12 @@
               "Liberty",
               "Mabini",
               "Naga",
-              "Osme�a",
+              "Osme\u00f1a",
               "Plaridel",
               "Kalanggaman District (Pob.)",
               "Ponong",
               "San Agustin",
-              "Santo Ni�o",
+              "Santo Ni\u00f1o",
               "Tabunok",
               "Tagaytay",
               "Tinago District (Pob.)",
@@ -44611,7 +44596,7 @@
               "Poblacion Zone II",
               "Potot",
               "San Joaquin",
-              "Santo Ni�o",
+              "Santo Ni\u00f1o",
               "Talairan",
               "Talisay",
               "Tolibao",
@@ -44833,7 +44818,7 @@
               "San Roque",
               "Santa Cruz",
               "Santa Margarita",
-              "Santo Ni�o",
+              "Santo Ni\u00f1o",
               "Tabunok",
               "Tagnate",
               "Talisay",
@@ -44920,7 +44905,7 @@
               "San Francisco",
               "San Roque",
               "Santa Cruz",
-              "Santo Ni�o (Pob.)",
+              "Santo Ni\u00f1o (Pob.)",
               "Santo Rosario",
               "Tabunok",
               "Tolingon",
@@ -44964,7 +44949,7 @@
               "San Pedro",
               "San Roque",
               "Santa Cruz",
-              "Santo Ni�o",
+              "Santo Ni\u00f1o",
               "Sari-sari",
               "Tinambacan",
               "Tuba",
@@ -45036,7 +45021,7 @@
               "San Andres",
               "San Pablo",
               "Santa Cruz",
-              "Santo Ni�o",
+              "Santo Ni\u00f1o",
               "Tagkip",
               "Tolosahay",
               "Villa Hermosa"
@@ -45064,7 +45049,7 @@
               "San Ignacio",
               "San Isidro",
               "Santo Domingo",
-              "Santo Ni�o",
+              "Santo Ni\u00f1o",
               "Tagaytay",
               "Tongonan",
               "Tugbong"
@@ -45084,7 +45069,7 @@
               "Calabnian",
               "Calaghusan",
               "Caltayan",
-              "Canba�ez",
+              "Canba\u00f1ez",
               "Cogon",
               "Duyog",
               "Gimenarat East",
@@ -45160,7 +45145,7 @@
               "Liwayway",
               "Maya",
               "Oguisan",
-              "Osme�a",
+              "Osme\u00f1a",
               "Palale 1",
               "Palale 2",
               "Poblacion District 1",
@@ -45177,7 +45162,7 @@
               "Santa Isabel",
               "Tinawan",
               "Tuyo",
-              "Do�a Josefa",
+              "Do\u00f1a Josefa",
               "Villa Imelda"
             ]
           },
@@ -45197,7 +45182,7 @@
               "Mahayahay",
               "Malinao",
               "Malipoon",
-              "Pala�ogan",
+              "Pala\u00f1ogan",
               "Paril",
               "Pinamonoan",
               "Poblacion",
@@ -45211,7 +45196,7 @@
               "Upper Mahaplag",
               "Hiluctogan",
               "Maligaya",
-              "Santo Ni�o"
+              "Santo Ni\u00f1o"
             ]
           },
           "083733000": {
@@ -45258,7 +45243,7 @@
               "Monte Alegre",
               "San Isidro (Pob.)",
               "San Pedro (Pob.)",
-              "Santo Ni�o (Pob.)",
+              "Santo Ni\u00f1o (Pob.)",
               "President Garcia",
               "Punong",
               "San Juan",
@@ -45409,7 +45394,7 @@
               "San Jose",
               "San Juan",
               "San Vicente",
-              "Santo Ni�o",
+              "Santo Ni\u00f1o",
               "San Pablo",
               "Sumangga",
               "Valencia",
@@ -45432,7 +45417,7 @@
               "Alta Vista",
               "Bagong Buhay",
               "Bayog",
-              "Do�a Feliza Z. Mejia",
+              "Do\u00f1a Feliza Z. Mejia",
               "Juaton",
               "Luna",
               "Mabato"
@@ -45574,7 +45559,7 @@
               "Biasong",
               "Bunacan",
               "Cabungaan",
-              "Capi�ahan (Pob.)",
+              "Capi\u00f1ahan (Pob.)",
               "Crossing (Pob.)",
               "Daja-daku",
               "Daja-diot",
@@ -45873,7 +45858,7 @@
               "San Victor",
               "Santa Cruz",
               "Santa Elena",
-              "Santo Ni�o Pob.",
+              "Santo Ni\u00f1o Pob.",
               "Solano",
               "Talolora",
               "Tugop",
@@ -45897,7 +45882,7 @@
               "San Vicente",
               "Tanghas",
               "Telegrafo",
-              "Do�a Brigida",
+              "Do\u00f1a Brigida",
               "Imelda"
             ]
           },
@@ -45911,7 +45896,7 @@
               "San Pedro",
               "San Roque",
               "San Vicente (Pob.)",
-              "Santo Ni�o (Pob.)"
+              "Santo Ni\u00f1o (Pob.)"
             ]
           },
           "083751000": {
@@ -45994,7 +45979,7 @@
               "Progresso",
               "San Antonio",
               "San Pedro",
-              "Santo Ni�o"
+              "Santo Ni\u00f1o"
             ]
           },
           "084803000": {
@@ -46056,7 +46041,7 @@
               "Guba",
               "Gebalagnan",
               "Gebulwangan",
-              "Do�a Pulqueria",
+              "Do\u00f1a Pulqueria",
               "Hinatad",
               "Imelda",
               "Liberty",
@@ -46126,7 +46111,7 @@
               "Nahulid",
               "Opong",
               "Osang",
-              "Osme�a",
+              "Osme\u00f1a",
               "P. Rebadulla",
               "Roxas",
               "Sagudsuron",
@@ -46290,7 +46275,7 @@
               "Macarthur",
               "Magsaysay",
               "Matelarag",
-              "Osme�a",
+              "Osme\u00f1a",
               "Paco",
               "Palanas",
               "Perez",
@@ -46378,7 +46363,7 @@
               "Cahicsan",
               "Chitongco (Pob.)",
               "De Maria",
-              "Do�a Lucia",
+              "Do\u00f1a Lucia",
               "Eco (Pob.)",
               "Flormina",
               "Hinabangan",
@@ -46421,7 +46406,7 @@
               "Napo",
               "Natawo",
               "Nipa",
-              "Osme�a",
+              "Osme\u00f1a",
               "Pangpang",
               "Paysud",
               "Sangay",
@@ -46441,7 +46426,7 @@
               "Cabari-an",
               "Cagbigajo",
               "Canjumadal",
-              "Do�a Anecita",
+              "Do\u00f1a Anecita",
               "Camparanga",
               "Ge-adgawan",
               "Ginulgan",
@@ -46637,7 +46622,7 @@
               "Lower Caynaga",
               "Maghipid",
               "Magsaysay",
-              "Osme�a",
+              "Osme\u00f1a",
               "Paguite",
               "Roxas",
               "Sampaguita",
@@ -46675,7 +46660,7 @@
               "Mabuhay",
               "Magsaysay",
               "Panjobjoban II",
-              "Ro�o",
+              "Ro\u00f1o",
               "San Isidro",
               "San Jose",
               "Veloso"
@@ -46740,7 +46725,7 @@
           "086003000": {
             "name": "City of Calbayog",
             "barangays": [
-              "Jose A. Ro�o",
+              "Jose A. Ro\u00f1o",
               "Acedillo",
               "Alibaba",
               "Amampacang",
@@ -46842,14 +46827,14 @@
               "Obrero",
               "Olera",
               "Oquendo (Pob.)",
-              "Osme�a",
+              "Osme\u00f1a",
               "Palanas",
               "Palanogan",
               "Panlayahan",
               "Panonongon",
               "Panoypoy",
               "Patong",
-              "Pe�a",
+              "Pe\u00f1a",
               "Pilar",
               "Pinamorotan",
               "Quezon",
@@ -46993,7 +46978,7 @@
               "Poblacion 11",
               "Poblacion 12",
               "Poblacion 13",
-              "Mu�oz",
+              "Mu\u00f1oz",
               "Pupua",
               "Guindaponan",
               "Rama",
@@ -47107,7 +47092,7 @@
               "Ngoso",
               "Palambrag",
               "Palanas",
-              "Pi�aplata",
+              "Pi\u00f1aplata",
               "Pizarro",
               "Pologon",
               "Purog",
@@ -47124,7 +47109,7 @@
               "San Pelayo",
               "San Ramon",
               "Santa Elena",
-              "Santo Ni�o",
+              "Santo Ni\u00f1o",
               "Senibaran",
               "Tagnao",
               "Tambongan",
@@ -47156,7 +47141,7 @@
               "Concord",
               "Dalosdoson",
               "Lim-ao",
-              "Osme�a",
+              "Osme\u00f1a",
               "Poblacion 1",
               "Poblacion 2",
               "Rawis",
@@ -47218,12 +47203,12 @@
               "Ferreras",
               "Legaspi",
               "Logero",
-              "Osme�a",
+              "Osme\u00f1a",
               "Pinalanga",
               "Pinamitinan (Pob.)",
               "Catato Pob.",
               "San Roque",
-              "Santo Ni�o Pob.",
+              "Santo Ni\u00f1o Pob.",
               "Tagalag",
               "Tinabanan",
               "Amantillo",
@@ -47233,7 +47218,7 @@
               "Malobago",
               "Odoc",
               "Panan-awan",
-              "Ro�o",
+              "Ro\u00f1o",
               "Santa Rita",
               "Veloso"
             ]
@@ -47293,7 +47278,7 @@
               "Oyandic",
               "Pamamasan",
               "San Andres",
-              "Santo Ni�o",
+              "Santo Ni\u00f1o",
               "Sarao",
               "Pusongan"
             ]
@@ -47450,7 +47435,7 @@
             ]
           },
           "086018000": {
-            "name": "Santo Ni�o",
+            "name": "Santo Ni\u00f1o",
             "barangays": [
               "Balatguti",
               "Baras",
@@ -47564,7 +47549,7 @@
               "San Rafael",
               "San Roque",
               "Santa Rosa",
-              "Santo Ni�o",
+              "Santo Ni\u00f1o",
               "Soledad (Pob.)",
               "Tayud (Pob.)",
               "Tomabe",
@@ -47586,7 +47571,7 @@
               "Cantato",
               "Casandig I",
               "Concepcion",
-              "Jose Ro�o",
+              "Jose Ro\u00f1o",
               "Cawayan",
               "Lawaan I",
               "Lipata",
@@ -47609,7 +47594,7 @@
               "Poblacion 6",
               "Salay",
               "San Isidro",
-              "Santo Ni�o",
+              "Santo Ni\u00f1o",
               "Sulopan",
               "Tabucan",
               "Tapul",
@@ -47724,12 +47709,12 @@
               "Calanyugan",
               "Caloloma",
               "Cambaye",
-              "Pa�ge",
+              "Pa\u00f1ge",
               "San Luis",
               "Villahermosa Occidental",
               "Canlapwas (Pob.)",
               "Libertad",
-              "Santo Ni�o",
+              "Santo Ni\u00f1o",
               "Viejo",
               "Villahermosa Oriental"
             ]
@@ -47800,7 +47785,7 @@
               "Anahao",
               "Pong-on",
               "San Ramon",
-              "Santo Ni�o"
+              "Santo Ni\u00f1o"
             ]
           },
           "086403000": {
@@ -47836,8 +47821,8 @@
               "Salvacion",
               "San Pablo Island",
               "San Pedro Island",
-              "Santo Ni�o I",
-              "Santo Ni�o II",
+              "Santo Ni\u00f1o I",
+              "Santo Ni\u00f1o II",
               "Tahusan",
               "Talisay",
               "Tawog",
@@ -47976,7 +47961,7 @@
               "San Rafael",
               "Santa Cruz",
               "Santa Rosa",
-              "Santo Ni�o",
+              "Santo Ni\u00f1o",
               "Santo Rosario",
               "Soro-soro",
               "Tagnipa (Pob.)",
@@ -48021,7 +48006,7 @@
               "Danao",
               "Guadalupe",
               "San Vicente Poblacion",
-              "Santo Ni�o",
+              "Santo Ni\u00f1o",
               "San Vicente",
               "Santa Cruz (Pob.)",
               "Santo Rosario (Pob.)",
@@ -48067,7 +48052,7 @@
               "New Katipunan",
               "Pancil",
               "San Isidro",
-              "Santo Ni�o"
+              "Santo Ni\u00f1o"
             ]
           },
           "086410000": {
@@ -48190,7 +48175,7 @@
               "San Jose (Pob.)",
               "San Vicente",
               "Santa Cruz (Pob.)",
-              "Santo Ni�o (Pob.)",
+              "Santo Ni\u00f1o (Pob.)",
               "Somoje",
               "Sua",
               "Timba",
@@ -48487,7 +48472,7 @@
               "Anislagan",
               "Atipolo",
               "Calumpang",
-              "Capi�ahan",
+              "Capi\u00f1ahan",
               "Caraycaray",
               "Catmon",
               "Haguikhikan",
@@ -48497,7 +48482,7 @@
               "Lucsoon",
               "Mabini",
               "San Pablo",
-              "Santo Ni�o",
+              "Santo Ni\u00f1o",
               "Santissimo Rosario Pob.",
               "Talustusan",
               "Villa Caneja",
@@ -48560,7 +48545,7 @@
               "Sigayan",
               "Selinog",
               "Sinonoc",
-              "Santo Ni�o",
+              "Santo Ni\u00f1o",
               "Sulangon",
               "Tag-ulo",
               "Taguilon",
@@ -48634,7 +48619,7 @@
               "Patik",
               "Sanao",
               "San Vicente",
-              "Santo Ni�o"
+              "Santo Ni\u00f1o"
             ]
           },
           "097204000": {
@@ -48703,7 +48688,7 @@
               "San Francisco",
               "San Miguel",
               "Santa Cruz",
-              "Santo Ni�o",
+              "Santo Ni\u00f1o",
               "Silucap",
               "Tapican",
               "Timan",
@@ -48771,7 +48756,7 @@
             ]
           },
           "097209000": {
-            "name": "Pi�an",
+            "name": "Pi\u00f1an",
             "barangays": [
               "Adante",
               "Bacuyong",
@@ -48825,7 +48810,7 @@
               "San Antonio",
               "San Miguel",
               "San Pedro",
-              "Santo Ni�o",
+              "Santo Ni\u00f1o",
               "Silawe",
               "Sianib",
               "Villahermosa",
@@ -48846,8 +48831,8 @@
               "Moliton",
               "Nabilid",
               "Pangologon",
-              "Pi�alan",
-              "Pi�amar",
+              "Pi\u00f1alan",
+              "Pi\u00f1amar",
               "Sebod",
               "Tanayan",
               "Villahermoso",
@@ -48918,13 +48903,13 @@
               "Ipilan",
               "Lanawan",
               "Pukay",
-              "Santo Ni�o",
+              "Santo Ni\u00f1o",
               "Pacuhan",
               "Poblacion East"
             ]
           },
           "097214000": {
-            "name": "Sergio Osme�a Sr.",
+            "name": "Sergio Osme\u00f1a Sr.",
             "barangays": [
               "Antonino",
               "Bagong Baguio",
@@ -48990,7 +48975,7 @@
               "Seriac",
               "Siayan Proper (Pob.)",
               "Balunokan",
-              "Mu�oz",
+              "Mu\u00f1oz",
               "Suguilon"
             ]
           },
@@ -49016,7 +49001,7 @@
               "Paniran",
               "Poblacion",
               "Puliran",
-              "Santo Ni�o",
+              "Santo Ni\u00f1o",
               "Bongalao",
               "Cabbunan",
               "Culaguan",
@@ -49083,13 +49068,13 @@
               "Dagohoy",
               "Datagan",
               "Disud",
-              "Do�a Josefa",
+              "Do\u00f1a Josefa",
               "Gampis",
               "Goleo",
               "Imelda",
               "Joaquin Macias",
               "Labakid",
-              "Santo Ni�o",
+              "Santo Ni\u00f1o",
               "Santo Rosario",
               "Upper Nipaan",
               "Benigno Aquino Jr.",
@@ -49147,7 +49132,7 @@
               "Catuyan",
               "Culasian",
               "Danganon",
-              "Do�a Cecilia",
+              "Do\u00f1a Cecilia",
               "Guban",
               "Lagundi",
               "Libucon",
@@ -49158,7 +49143,7 @@
               "Napulan",
               "Panabutan",
               "Piacan",
-              "Pi�a",
+              "Pi\u00f1a",
               "Pisa Puti",
               "Pisa Itom",
               "Saint Mary (Pob.)",
@@ -49193,7 +49178,7 @@
               "Lumbayao",
               "Malila-t",
               "Sandayong",
-              "Santo Ni�o",
+              "Santo Ni\u00f1o",
               "Tilubog",
               "Tininggaan",
               "Tubod",
@@ -49254,7 +49239,7 @@
               "San Juan",
               "San Roque",
               "San Vicente",
-              "Santo Ni�o",
+              "Santo Ni\u00f1o",
               "Sas",
               "Upper Gutalac",
               "Immaculada Concepcion",
@@ -49680,7 +49665,7 @@
               "Kabuhi",
               "Lourmah",
               "Lower Salug Daku",
-              "Lower Santo Ni�o",
+              "Lower Santo Ni\u00f1o",
               "Sicpao",
               "Malubo",
               "Manguiles",
@@ -49696,7 +49681,7 @@
               "Tuboran",
               "Tumapic",
               "Upper Salug Daku",
-              "Upper Santo Ni�o",
+              "Upper Santo Ni\u00f1o",
               "Tulan"
             ]
           },
@@ -49844,7 +49829,7 @@
               "Kawit",
               "Lumbia",
               "Santa Maria",
-              "Santo Ni�o",
+              "Santo Ni\u00f1o",
               "Dampalan",
               "Dumagoc"
             ]
@@ -49954,7 +49939,7 @@
               "Poblacion",
               "San Francisco",
               "Tultolan",
-              "Do�a Josefina"
+              "Do\u00f1a Josefina"
             ]
           },
           "097328000": {
@@ -50014,7 +49999,7 @@
               "Sambulawan",
               "San Antonio",
               "San Carlos (Pob.)",
-              "Santo Ni�o (Pob.)",
+              "Santo Ni\u00f1o (Pob.)",
               "Santo Rosario",
               "Sugod",
               "Tabuan",
@@ -50096,7 +50081,7 @@
               "Santa Barbara",
               "Santa Catalina",
               "Santa Maria",
-              "Santo Ni�o",
+              "Santo Ni\u00f1o",
               "Sibulao",
               "Sinubung",
               "Sinunoc",
@@ -50157,7 +50142,7 @@
               "Lower Bagong Tudela",
               "Mansanas",
               "Moradji",
-              "Neme�o",
+              "Neme\u00f1o",
               "Nopulan",
               "Sebukang",
               "Tagaytay Hill",
@@ -50201,7 +50186,7 @@
               "Poblacion",
               "Rizal",
               "San Miguel",
-              "Santo Ni�o",
+              "Santo Ni\u00f1o",
               "Sawa",
               "Tungawan",
               "Upper Sicpao"
@@ -50298,7 +50283,7 @@
               "Payongan",
               "Poblacion",
               "Santa Maria",
-              "Santo Ni�o",
+              "Santo Ni\u00f1o",
               "Talaptap",
               "Tampalan",
               "Tandiong Muslim",
@@ -50418,7 +50403,7 @@
               "Makilas",
               "Caparan",
               "Domandan",
-              "Do�a Josefa",
+              "Do\u00f1a Josefa",
               "Logan",
               "Maasin"
             ]
@@ -50442,7 +50427,7 @@
               "Timuay Danda",
               "Nazareth",
               "Palinta",
-              "Pe�aranda",
+              "Pe\u00f1aranda",
               "Poblacion",
               "Riverside",
               "Sanghanan",
@@ -50474,7 +50459,7 @@
               "Pinalim",
               "Poblacion",
               "Punawan",
-              "Santo Ni�o",
+              "Santo Ni\u00f1o",
               "Sawa",
               "Sioton",
               "Taguisian"
@@ -50738,7 +50723,7 @@
               "Sisay",
               "Gaycon",
               "Little Margos",
-              "Santo Ni�o",
+              "Santo Ni\u00f1o",
               "Taglibas",
               "Tigpalay",
               "Masao",
